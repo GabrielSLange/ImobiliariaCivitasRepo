@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNetCore.Components.Web
+@namespace imobiliariaCivitas_pages.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="~/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="imobiliariaCivitas_pages.styles.css" rel="stylesheet" />
+    <component type="typeof(HeadOutlet)" render-mode="ServerPrerendered" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div id="menu">
+        <aside id="MenuOculto" class="MenuOculto">
+            <a href="javascript:void(0)" id="BotFechar" onclick="FechaMenu()">&times;</a>
+            <a href="/" id="Home">Home</a>
+            <a href="sobreNos.html">Sobre Nós</a>
+            <a href="servicos.html">Serviços</a>
+            <a href="contato.html">Contato</a>
+        </aside>
+
+        <section id="Principal">
+            <span id="BotPrincipal" onclick="AbreMenu()" onmouseenter="TrocaCor1()" onmouseleave="TrocaCor2()">&#9776;</span>
+        </section>
+    </div>
+
+    @RenderBody()
+
+    
+    <div id="blazor-error-ui">
+        <environment include="Staging,Production">
+            An error has occurred. This application may no longer respond until reloaded.
+        </environment>
+        <environment include="Development">
+            An unhandled exception has occurred. See browser dev tools for details.
+        </environment>
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+
+    <a id="botao-zap" href="https://api.whatsapp.com/send/?phone=556299868546&text&app_absent=0" target="_blank">
+        <img id="estilo-zap" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1-768x772.png" onmouseenter="AumentaBotao()" onmouseout="VoltaBotao()" />
+    </a>
+    
+    <footer>
+        <p>
+            <span>Gabriel Lange &copy; 2024 | </span>
+            <span><a target="_blank" href="https://www.instagram.com/1lg_gabriel/">Instagram &#x1F4F7;</a></span>
+        </p>
+        <span>Feito com &#x2665; em Gyn</span>
+
+    </footer>
+
+    <script src="_framework/blazor.server.js"></script>
+    <script src="~/Js/script.js"></script>
+</body>
+
+</html>
