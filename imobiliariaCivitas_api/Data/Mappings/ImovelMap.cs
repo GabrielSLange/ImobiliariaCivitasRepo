@@ -1,4 +1,4 @@
-﻿using imobiliariaCivitas_shared;
+﻿using imobiliariaCivitas_shared.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -11,9 +11,12 @@ namespace imobiliariaCivitas_api.Data.Mappings
             builder.ToTable("tb_imovel");
 
             builder.HasKey(tb => tb.cd_imovel);
+
             builder.Property(tb => tb.cd_imovel)
                 .ValueGeneratedOnAdd()
                 .UseIdentityColumn();
+            
+
 
             builder.Property(tb => tb.descricao)
                 .IsRequired()

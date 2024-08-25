@@ -1,15 +1,21 @@
 [
   {
-    "ContainingType": "imobiliariaCivitas_api.Controllers.ImoveisController",
-    "Method": "GetImovel",
-    "RelativePath": "Imoveis",
+    "ContainingType": "imobiliariaCivitas_api.Controllers.ImagemController",
+    "Method": "ObterImagensPorImovel",
+    "RelativePath": "Imagem",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "cdImovel",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[imobiliariaCivitas_shared.tb_imovel, imobiliariaCivitas_shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[imobiliariaCivitas_shared.Model.tb_imagem, imobiliariaCivitas_shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,16 +26,32 @@
     ]
   },
   {
-    "ContainingType": "imobiliariaCivitas_api.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "imobiliariaCivitas_api.Controllers.ImagemController",
+    "Method": "SalvarImagem",
+    "RelativePath": "Imagem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imagem",
+        "Type": "imobiliariaCivitas_shared.DTOs.ImagemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
+    "Method": "GetImovel",
+    "RelativePath": "Imovel",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[imobiliariaCivitas_api.WeatherForecast, imobiliariaCivitas_api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[imobiliariaCivitas_shared.Model.tb_imovel, imobiliariaCivitas_shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -37,7 +59,6 @@
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
   }
 ]

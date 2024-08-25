@@ -1,5 +1,5 @@
 ﻿using imobiliariaCivitas_api.Data.Mappings;
-using imobiliariaCivitas_shared;
+using imobiliariaCivitas_shared.Model;
 using Microsoft.EntityFrameworkCore;
 
 namespace imobiliariaCivitas_api.Data
@@ -12,10 +12,12 @@ namespace imobiliariaCivitas_api.Data
         }
 
         public DbSet<tb_imovel> tb_imoveis { get; set; }
+        public DbSet<tb_imagem> tb_imagens { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new ImovelMap());
+            modelBuilder.ApplyConfiguration(new ImagensMap());
         }
     }
 }

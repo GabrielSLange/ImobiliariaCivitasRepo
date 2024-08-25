@@ -22,6 +22,29 @@ namespace imobiliariaCivitas_api.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("imobiliariaCivitas_shared.tb_imagem", b =>
+                {
+                    b.Property<int>("cd_imagem")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("cd_imagem"));
+
+                    b.Property<int>("cd_imovel")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("imageBase64")
+                        .IsRequired()
+                        .HasColumnType("TEXT")
+                        .HasColumnName("imageBase64");
+
+                    b.HasKey("cd_imagem");
+
+                    b.HasIndex("cd_imovel");
+
+                    b.ToTable("tb_imagem", (string)null);
+                });
+
             modelBuilder.Entity("imobiliariaCivitas_shared.tb_imovel", b =>
                 {
                     b.Property<int>("cd_imovel")
@@ -42,6 +65,22 @@ namespace imobiliariaCivitas_api.Migrations
                     b.HasKey("cd_imovel");
 
                     b.ToTable("tb_imovel", (string)null);
+                });
+
+            modelBuilder.Entity("imobiliariaCivitas_shared.tb_imagem", b =>
+                {
+                    b.HasOne("imobiliariaCivitas_shared.tb_imovel", "imovel")
+                        .WithMany("imagens")
+                        .HasForeignKey("cd_imovel")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("imovel");
+                });
+
+            modelBuilder.Entity("imobiliariaCivitas_shared.tb_imovel", b =>
+                {
+                    b.Navigation("imagens");
                 });
 #pragma warning restore 612, 618
         }
