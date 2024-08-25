@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "imobiliariaCivitas_api.Controllers.ContaController",
+    "Method": "CriarConta",
+    "RelativePath": "criarConta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "imobiliariaCivitas_shared.DTOs.CriarLoginUsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImagemController",
     "Method": "ObterImagensPorImovel",
     "RelativePath": "Imagem",
@@ -60,5 +76,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "imobiliariaCivitas_api.Controllers.ContaController",
+    "Method": "FazerLogin",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "imobiliariaCivitas_shared.DTOs.LoginUsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

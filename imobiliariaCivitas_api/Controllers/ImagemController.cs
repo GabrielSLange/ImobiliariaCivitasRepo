@@ -1,10 +1,12 @@
 ﻿using imobiliariaCivitas_api.Services;
 using imobiliariaCivitas_shared.DTOs;
 using imobiliariaCivitas_shared.Model;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace imobiliariaCivitas_api.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class ImagemController : ControllerBase

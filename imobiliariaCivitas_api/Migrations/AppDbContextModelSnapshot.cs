@@ -22,7 +22,24 @@ namespace imobiliariaCivitas_api.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("imobiliariaCivitas_shared.tb_imagem", b =>
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_acesso", b =>
+                {
+                    b.Property<int>("cd_acesso")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("cd_acesso"));
+
+                    b.Property<string>("tipo_acesso")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("cd_acesso");
+
+                    b.ToTable("tb_acessos");
+                });
+
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_imagem", b =>
                 {
                     b.Property<int>("cd_imagem")
                         .ValueGeneratedOnAdd()
@@ -45,7 +62,7 @@ namespace imobiliariaCivitas_api.Migrations
                     b.ToTable("tb_imagem", (string)null);
                 });
 
-            modelBuilder.Entity("imobiliariaCivitas_shared.tb_imovel", b =>
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_imovel", b =>
                 {
                     b.Property<int>("cd_imovel")
                         .ValueGeneratedOnAdd()
@@ -67,9 +84,45 @@ namespace imobiliariaCivitas_api.Migrations
                     b.ToTable("tb_imovel", (string)null);
                 });
 
-            modelBuilder.Entity("imobiliariaCivitas_shared.tb_imagem", b =>
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_usuario", b =>
                 {
-                    b.HasOne("imobiliariaCivitas_shared.tb_imovel", "imovel")
+                    b.Property<int>("cd_usuario")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("cd_usuario"));
+
+                    b.Property<int>("cd_acesso")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("email")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("VARCHAR")
+                        .HasColumnName("email");
+
+                    b.Property<string>("nome_usuario")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("VARCHAR")
+                        .HasColumnName("nome_usuario");
+
+                    b.Property<string>("senha")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("VARCHAR")
+                        .HasColumnName("senha");
+
+                    b.HasKey("cd_usuario");
+
+                    b.HasIndex("cd_acesso");
+
+                    b.ToTable("tb_usuario", (string)null);
+                });
+
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_imagem", b =>
+                {
+                    b.HasOne("imobiliariaCivitas_shared.Model.tb_imovel", "imovel")
                         .WithMany("imagens")
                         .HasForeignKey("cd_imovel")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -78,7 +131,23 @@ namespace imobiliariaCivitas_api.Migrations
                     b.Navigation("imovel");
                 });
 
-            modelBuilder.Entity("imobiliariaCivitas_shared.tb_imovel", b =>
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_usuario", b =>
+                {
+                    b.HasOne("imobiliariaCivitas_shared.Model.tb_acesso", "acesso")
+                        .WithMany("usuarios")
+                        .HasForeignKey("cd_acesso")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("acesso");
+                });
+
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_acesso", b =>
+                {
+                    b.Navigation("usuarios");
+                });
+
+            modelBuilder.Entity("imobiliariaCivitas_shared.Model.tb_imovel", b =>
                 {
                     b.Navigation("imagens");
                 });
