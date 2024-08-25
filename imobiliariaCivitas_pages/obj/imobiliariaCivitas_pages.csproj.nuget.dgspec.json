@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitas\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj": {}
+    "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitas\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj": {
+    "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitas\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
         "projectName": "imobiliariaCivitas_pages",
-        "projectPath": "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitas\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
+        "projectPath": "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
         "packagesPath": "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitas\\imobiliariaCivitas_pages\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel - Dev\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel - Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aao6OM8v04s=",
+  "dgSpecHash": "sfa184AmmXw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel - Dev\\source\\repos\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.33\\microsoft.entityframeworkcore.6.0.33.nupkg.sha512",

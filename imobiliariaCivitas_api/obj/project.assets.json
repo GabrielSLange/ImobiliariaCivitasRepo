@@ -5806,11 +5806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel - Dev\\source\\repos\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
       "projectName": "imobiliariaCivitas_api",
-      "projectPath": "C:\\Users\\Gabriel - Dev\\source\\repos\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
+      "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
       "packagesPath": "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel - Dev\\source\\repos\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel - Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5828,8 +5828,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Gabriel - Dev\\source\\repos\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
-              "projectPath": "C:\\Users\\Gabriel - Dev\\source\\repos\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj"
+            "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
+              "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj"
             }
           }
         }
