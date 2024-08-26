@@ -15,15 +15,27 @@ namespace imobiliariaCivitas_api
             var builder = WebApplication.CreateBuilder(args);
 
             ConfiguracaoAutenticacao(builder);
+
+            // Adiciona o serviço de CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    policy => policy.AllowAnyOrigin()
+                                    .AllowAnyMethod()
+                                    .AllowAnyHeader());
+            });
+
             // Add services to the container.
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             configuracaoSwaggerGen(builder);
             builder.Services.AddScoped<ImobiliariaServices>();
             ConfigureService(builder);
 
             var app = builder.Build();
+
+            // Ativa o CORS usando a política configurada
+            app.UseCors("AllowAll");
 
             app.UseAuthentication();  // Adiciona o middleware de autenticação
             app.UseAuthorization();
@@ -33,23 +45,15 @@ namespace imobiliariaCivitas_api
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
-
-
             app.MapControllers();
 
             app.Run();
-
-
-
-
 
             void ConfigureService(WebApplicationBuilder builder)
             {
                 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
                 builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(connectionString));
             }
-
 
             void ConfiguracaoAutenticacao(WebApplicationBuilder builder)
             {
@@ -112,6 +116,4 @@ namespace imobiliariaCivitas_api
             }
         }
     }
-
-
 }

@@ -16,7 +16,7 @@ namespace imobiliariaCivitas_api.Controllers
         }
 
         [HttpPost("/login")]
-        public async Task<ActionResult> FazerLogin(LoginUsuarioDTO usuario)
+        public async Task<ActionResult> FazerLogin([FromBody]LoginUsuarioDTO usuario)
         {
             try
             {

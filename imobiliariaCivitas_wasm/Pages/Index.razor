@@ -1,9 +1,65 @@
 ﻿@page "/"
+@using System.ComponentModel.DataAnnotations
 
-<PageTitle>Index</PageTitle>
+@inject HttpClient Http
+@inject NavigationManager Navigation
+@inject EstadoAutenticacao AuthStateProvider
+@inject ILocalStorageService LocalStorage
 
-<h1>Hello, world!</h1>
+<h3>Login</h3>
 
-Welcome to your new app.
+<EditForm Model="loginModel" OnValidSubmit="HandleLogin">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    
+    @if (erroRequest)
+    {
+        <div class="alert-danger">
+        <p>@erro</p>
+    </div>
+    }
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+    <div>
+        <label>Email: </label>
+        <InputText @bind-Value="loginModel.usuario" />
+    </div>
+    <div>
+        <label>Senha: </label>
+        <InputText @bind-Value="loginModel.senha" type="password" />
+    </div>
+    <button type="submit">Entrar</button>
+</EditForm>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    bool erroRequest = false;
+    string erro = "";
+
+    private async Task HandleLogin()
+    {
+        var response = await Http.PostAsJsonAsync($"{Http.BaseAddress}login", loginModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            var token = await response.Content.ReadAsStringAsync();
+
+            await LocalStorage.SetItemAsync("authToken", token);
+            AuthStateProvider.MarkUserAsAuthenticated(token);
+            Http.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+            erroRequest = false;
+            Navigation.NavigateTo("/protected");
+        }
+        else
+        {
+            erro = await response.Content.ReadAsStringAsync();
+            Console.WriteLine(erro);
+            erroRequest = true;
+        }
+    }
+
+    public class LoginModel
+    {
+        public string usuario { get; set; } = null!;
+        public string senha { get; set; } = null!;
+    }
+}

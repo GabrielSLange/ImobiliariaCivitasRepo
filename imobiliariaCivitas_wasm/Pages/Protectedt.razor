@@ -1,0 +1,41 @@
+﻿@page "/protected"
+@using Microsoft.AspNetCore.Components.Authorization
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<h3>Página Protegida</h3>
+
+<AuthorizeView>
+    <Authorized>
+        <p>Bem-vindo! Você está logado.</p>
+        <button @onclick="FetchProtectedData">Obter Dados Protegidos</button>
+        <p>@protectedData</p>
+    </Authorized>
+    <NotAuthorized>
+        <p>Você não está autorizado a ver esta página. Por favor, faça login.</p>
+        <button @onclick="Redirecionar">Ir para Login</button>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+    private string protectedData;
+
+    private async Task FetchProtectedData()
+    {
+        var response = await Http.GetAsync("https://localhost:7142/api/protecteddata");
+
+        if (response.IsSuccessStatusCode)
+        {
+            protectedData = await response.Content.ReadAsStringAsync();
+        }
+        else
+        {
+            protectedData = "Falha ao obter dados protegidos.";
+        }
+    }
+
+    void Redirecionar()
+    {
+        Navigation.NavigateTo("/");
+    }
+}
