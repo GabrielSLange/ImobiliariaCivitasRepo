@@ -1,4 +1,5 @@
 ﻿@page "/"
+@layout LoginLayout
 @using System.ComponentModel.DataAnnotations
 
 @inject HttpClient Http
@@ -19,16 +20,19 @@
     </div>
     }
 
-    <div>
+    <div class="input-group">
         <label>Email: </label>
-        <InputText @bind-Value="loginModel.usuario" />
+        <InputText @bind-Value="loginModel.usuario" placeholder="Digite seu usuário" />
+        <ValidationMessage For="@(() => loginModel.usuario)" />
     </div>
-    <div>
+    <div class="input-group">
         <label>Senha: </label>
-        <InputText @bind-Value="loginModel.senha" type="password" />
+        <InputText @bind-Value="loginModel.senha" type="password" placeholder="Digite sua senha" />
+        <ValidationMessage For="@(() => loginModel.senha)" />
     </div>
     <button type="submit">Entrar</button>
 </EditForm>
+
 
 @code {
     private LoginModel loginModel = new LoginModel();

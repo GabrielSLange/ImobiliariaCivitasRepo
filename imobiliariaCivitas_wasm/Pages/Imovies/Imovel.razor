@@ -1,0 +1,26 @@
+﻿@page "/imoveis"
+@using Microsoft.AspNetCore.Components.Authorization
+@inject NavigationManager Navigation
+
+<h1>Imóveis</h1>
+<hr/>
+
+<AuthorizeView>
+    <Authorized>
+    </Authorized>
+
+
+    <NotAuthorized>
+        <p>Você não está autorizado a ver esta página. Por favor, faça login.</p>
+        <button @onclick="redirecionar">Ir para Login</button>
+    </NotAuthorized>
+</AuthorizeView>
+
+
+@code {
+    void redirecionar()
+    {
+        Navigation.NavigateTo("/");
+    }
+
+}
