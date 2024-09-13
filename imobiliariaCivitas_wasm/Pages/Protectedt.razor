@@ -2,6 +2,7 @@
 @using Microsoft.AspNetCore.Components.Authorization
 @inject HttpClient Http
 @inject NavigationManager Navigation
+@inject EstadoAutenticacao AuthenticationStateProvider
 
 <h3>Página Protegida</h3>
 
@@ -20,6 +21,18 @@
 @code {
     private string protectedData;
 
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+        if (!user.Identity.IsAuthenticated)
+        {
+            // Se o usuário não está autenticado, redirecionar para a página de login
+            Navigation.NavigateTo("/");
+        }
+    }
+
     private async Task FetchProtectedData()
     {
         var response = await Http.GetAsync("https://localhost:7142/api/protecteddata");
@@ -36,6 +49,6 @@
 
     void Redirecionar()
     {
-        Navigation.NavigateTo("/");
+        Navigation.NavigateTo("/login");
     }
 }
