@@ -9,9 +9,9 @@ namespace imobiliariaCivitas_wasm.Controllers
     public class ImobiliariaCivitasController : ControllerBase
     {
         private readonly ImobiliariaCivitasServices _services;
-        public ImobiliariaCivitasController(ImobiliariaCivitasServices services)
+        public ImobiliariaCivitasController(ImobiliariaCivitasServices Aservices)
         {
-            _services = services;
+            _services = Aservices;
         }
 
         [HttpGet]
