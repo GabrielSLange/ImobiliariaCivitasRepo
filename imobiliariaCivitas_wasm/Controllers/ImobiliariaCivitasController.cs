@@ -25,5 +25,6 @@ namespace imobiliariaCivitas_wasm.Controllers
             {
                 return BadRequest(ex.Message);
             }
+        }
     }
 }
