@@ -1,4 +1,5 @@
 using Blazored.LocalStorage;
+using imobiliariaCivitas_wasm.Services;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
@@ -28,6 +29,8 @@ namespace imobiliariaCivitas_wasm
 
             // Adicionar serviço de autenticação customizado
             builder.Services.AddScoped<AutenticacaoService>();
+            builder.Services.AddScoped<ImobiliariaCivitasServices>();
+            builder.Services.AddScoped<ServicesBlazor>();
 
             // Adicionar suporte para autorização
             builder.Services.AddAuthorizationCore();

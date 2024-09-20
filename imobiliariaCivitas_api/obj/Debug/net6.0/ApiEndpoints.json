@@ -18,7 +18,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImagemController",
     "Method": "ObterImagensPorImovel",
-    "RelativePath": "Imagem",
+    "RelativePath": "Imagem/ObterImagensPorImovel",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -44,7 +44,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImagemController",
     "Method": "SalvarImagem",
-    "RelativePath": "Imagem",
+    "RelativePath": "Imagem/SalvarImagem",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -60,7 +60,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
     "Method": "GetImovel",
-    "RelativePath": "Imovel",
+    "RelativePath": "Imovel/GetImovel",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

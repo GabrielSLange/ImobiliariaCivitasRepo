@@ -1,14 +1,12 @@
 ﻿@page "/imoveis"
-@using Microsoft.AspNetCore.Components.Authorization
+@using imobiliariaCivitas_wasm.Services
 @inject NavigationManager Navigation
 
 <h1>Imóveis</h1>
 <hr/>
-
 <AuthorizeView>
     <Authorized>
     </Authorized>
-
 
     <NotAuthorized>
         <p>Você não está autorizado a ver esta página. Por favor, faça login.</p>
@@ -18,6 +16,14 @@
 
 
 @code {
+    List<tb_imovel> Imoveis { get; set; }
+
+    public override async Task OnInitializedAsync()
+    {
+        Imoveis = await services._BlazorClient.GetAsync("ImobiliariaCivitas/ObterImoveis");
+
+    }
+
     void redirecionar()
     {
         Navigation.NavigateTo("/");

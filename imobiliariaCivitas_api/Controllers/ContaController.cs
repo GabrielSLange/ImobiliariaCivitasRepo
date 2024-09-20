@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace imobiliariaCivitas_api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controller]/[action]")]
     public class ContaController : ControllerBase
     {
         private ImobiliariaServices _services;

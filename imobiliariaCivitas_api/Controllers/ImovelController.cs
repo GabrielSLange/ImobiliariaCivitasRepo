@@ -7,7 +7,7 @@ namespace imobiliariaCivitas_api.Controllers
 {
     [Authorize]
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controller]/[action]")]
     public class ImovelController : ControllerBase
     {
         private ImobiliariaServices _services;

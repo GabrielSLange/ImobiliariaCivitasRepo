@@ -8,7 +8,7 @@ namespace imobiliariaCivitas_api.Controllers
 {
     [Authorize]
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controller]/[action]")]
     public class ImagemController : ControllerBase
     {
         private ImobiliariaServices _services;
@@ -18,6 +18,7 @@ namespace imobiliariaCivitas_api.Controllers
             _services = services;
         }
 
+        
         [HttpGet]
         public async Task<ActionResult<List<tb_imagem>>> ObterImagensPorImovel(int cdImovel)
         {
