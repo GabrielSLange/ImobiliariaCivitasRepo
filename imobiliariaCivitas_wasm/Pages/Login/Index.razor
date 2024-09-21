@@ -51,7 +51,7 @@
             AuthStateProvider.MarkUserAsAuthenticated(token);
             Http.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
             erroRequest = false;
-            Navigation.NavigateTo("/protected");
+            Navigation.NavigateTo("/Imoveis");
         }
         else
         {

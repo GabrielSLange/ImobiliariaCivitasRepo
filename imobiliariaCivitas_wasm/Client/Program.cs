@@ -30,7 +30,6 @@ namespace imobiliariaCivitas_wasm
             // Adicionar serviço de autenticação customizado
             builder.Services.AddScoped<AutenticacaoService>();
             builder.Services.AddScoped<ImobiliariaCivitasServices>();
-            builder.Services.AddScoped<ServicesBlazor>();
 
             // Adicionar suporte para autorização
             builder.Services.AddAuthorizationCore();

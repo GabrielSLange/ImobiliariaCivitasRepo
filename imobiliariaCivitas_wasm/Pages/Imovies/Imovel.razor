@@ -6,6 +6,14 @@
 <hr/>
 <AuthorizeView>
     <Authorized>
+        <RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" FilterMode="FilterMode.Simple" AllowSorting="true" class="custom-grid"
+        PageSize="7" Style="height: 70vh;" AllowPaging="true" PagerHorizontalAlign="HorizontalAlign.Center" Data="Imoveis" AllowAlternatingRows="true">
+            <Columns>
+                <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.cd_imovel" Title="Código do Imóvel"/>
+                <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.descricao" Title="Descrição"/>
+                <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.criadoEm" Title="Descrição" FormatString="{0:dd/MM/yyyy}" />
+            </Columns>
+        </RadzenDataGrid>
     </Authorized>
 
     <NotAuthorized>
@@ -16,12 +24,11 @@
 
 
 @code {
-    List<tb_imovel> Imoveis { get; set; }
+    List<tb_imovel>? Imoveis { get; set; }
 
-    public override async Task OnInitializedAsync()
+    protected override async Task OnInitializedAsync()
     {
-        Imoveis = await services._BlazorClient.GetAsync("ImobiliariaCivitas/ObterImoveis");
-
+        Imoveis = await services.ObterImoveis();
     }
 
     void redirecionar()
