@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {}
+    "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
+    "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
         "projectName": "imobiliariaCivitas_shared",
-        "projectPath": "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Lange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
+        "packagesPath": "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Visual Studio Compartilhados\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel Lange\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gabriel - Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

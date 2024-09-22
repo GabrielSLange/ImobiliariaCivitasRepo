@@ -1,0 +1,49 @@
+﻿@using imobiliariaCivitas_wasm.Services
+@inject NavigationManager Navigation
+@inject DialogService DialogService
+
+
+<EditForm Model="Imovel" OnValidSubmit="@SalvarImovel">
+    <div class="form-grid">
+        <div class="form-group">
+            <label>Descrição</label>
+            <InputText @bind-Value="Imovel.descricao" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Data de Criação</label>
+            <InputDate @bind-Value="Imovel.criadoEm" class="form-control" />
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Salvar</button>
+        </div>
+    </div>
+</EditForm>
+
+
+
+
+
+@code {
+    [Parameter] public int cdImovel { get; set; }
+    [Parameter] public tb_imovel? Imovel { get; set; }
+    public List<tb_imagem>? Imagens { get; set; }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        Imagens = await _services.ObterImagensImovel(cdImovel);
+    }
+
+    void redirecionar()
+    {
+        Navigation.NavigateTo("/");
+    }
+
+    async Task SalvarImovel()
+    {
+
+        DialogService.Close();
+    }
+}

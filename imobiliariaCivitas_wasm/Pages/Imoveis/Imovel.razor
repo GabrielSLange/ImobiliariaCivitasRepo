@@ -1,6 +1,8 @@
 ﻿@page "/imoveis"
 @using imobiliariaCivitas_wasm.Services
 @inject NavigationManager Navigation
+@inject DialogService DialogService
+
 
 <h1>Imóveis</h1>
 <hr/>
@@ -12,6 +14,14 @@
                 <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.cd_imovel" Title="Código do Imóvel"/>
                 <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.descricao" Title="Descrição"/>
                 <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.criadoEm" Title="Descrição" FormatString="{0:dd/MM/yyyy}" />
+                <RadzenDataGridColumn TItem="tb_imovel" Title="Ação">
+                    <Template Context="Entity">
+                        <div style="display: flex; justify-content: space-around;">
+                            <RadzenIcon title="Editar" Icon="edit" style="cursor: pointer;" @onclick="@(async () => await AbrirModalCadastro(Entity))" />
+                        </div>
+                    </Template>
+                </RadzenDataGridColumn>
+
             </Columns>
         </RadzenDataGrid>
     </Authorized>
@@ -28,12 +38,31 @@
 
     protected override async Task OnInitializedAsync()
     {
-        Imoveis = await services.ObterImoveis();
+        Imoveis = await _services.ObterImoveis();
     }
 
     void redirecionar()
     {
         Navigation.NavigateTo("/");
+    }
+
+    private async Task AbrirModalCadastro(tb_imovel Imovel)
+    {
+        var parameters = new Dictionary<string, object>
+        {
+            { "cdImovel", Imovel.cd_imovel },
+            { "Imovel", Imovel }
+        };
+
+        var options = new DialogOptions
+        {
+            Width = "600px",
+            Height = "400px",
+            Resizable = true,  // Opção de tornar a modal redimensionável
+            Draggable = true   // Permite arrastar a modal
+        };
+
+        await DialogService.OpenAsync<EditarImovel>("Editar Imóvel", parameters, options);
     }
 
 }
