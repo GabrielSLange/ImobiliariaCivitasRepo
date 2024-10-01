@@ -59,6 +59,32 @@
   },
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
+    "Method": "CriarImovel",
+    "RelativePath": "Imovel/CriarImovel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imovel",
+        "Type": "imobiliariaCivitas_shared.Model.tb_imovel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
     "Method": "GetImovel",
     "RelativePath": "Imovel/GetImovel",
     "HttpMethod": "GET",

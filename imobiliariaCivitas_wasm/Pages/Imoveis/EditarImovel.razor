@@ -64,6 +64,7 @@
     [Parameter] public tb_imovel? Imovel { get; set; }
     public List<tb_imagem>? Imagens { get; set; }
     private List<string>? base64String { get; set; } = new();
+    List<string>? imagensRemovidas { get; set; } = new();
 
     private string? selectedImage;
 
@@ -92,20 +93,31 @@
 
     protected override async Task OnInitializedAsync()
     {
-        Imagens = await _services.ObterImagensImovel(cdImovel);
+        if(cdImovel != 0)
+        {
+            Imagens = await _services.ObterImagensImovel(cdImovel);
+
+            foreach(tb_imagem imagem in Imagens)
+            {
+                base64String?.Add(imagem.imageBase64);
+            }
+        }
     }
 
     public async Task ExcluirImagem(string imgBase64)
     {
         if (base64String?.Count != 0)
         {
-            base64String?.Remove(imgBase64);            
+            base64String?.Remove(imgBase64);
+            imagensRemovidas?.Add(imgBase64);
         }
     }
 
-    async Task SalvarImovel()
+    public async Task SalvarImovel()
     {
-        await _services.CriarImovel(Imovel);
+       string cdImovel = await _services.CriarImovel(Imovel);
+
+       await _services.AtualizarImagens(base64String, imagensRemovidas, int.Parse(cdImovel));
 
         DialogService.Close();
     }

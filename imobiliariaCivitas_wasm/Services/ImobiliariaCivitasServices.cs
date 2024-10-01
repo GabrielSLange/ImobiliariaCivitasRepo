@@ -5,6 +5,7 @@ using System.Net.Http.Headers;
 using System.Net;
 using Microsoft.AspNetCore.Components;
 using System.Text;
+using imobiliariaCivitas_shared.DTOs;
 
 namespace imobiliariaCivitas_wasm.Services
 {
@@ -40,7 +41,8 @@ namespace imobiliariaCivitas_wasm.Services
                 throw new Exception($"{response.StatusCode}");
             return JsonSerializer.Deserialize<List<tb_imovel>>(content);
         }
-        
+
+        #region Imagens
         public async Task<List<tb_imagem>?> ObterImagensImovel(int cdImovel)
         {
             string token = await ObterToken();
@@ -61,7 +63,42 @@ namespace imobiliariaCivitas_wasm.Services
             return JsonSerializer.Deserialize<List<tb_imagem>>(content);
         }
 
-        public async Task CriarImovel(tb_imovel imovel)
+        public async Task AtualizarImagens(List<string>? imagens, List<string>? imagensExcluidas, int cd_imovel)
+        {
+            string token = await ObterToken();
+
+            foreach (string stringImagem in imagens) 
+            {
+                ImagemDTO imagem = new()
+                {
+                    cd_imovel = cd_imovel,
+                    imagem = stringImagem
+                };
+
+                string jsonImagem = JsonSerializer.Serialize(imagem);
+
+                var content = new StringContent(jsonImagem, Encoding.UTF8, "application/json");
+
+                var request = new HttpRequestMessage(HttpMethod.Post, $"https://localhost:7142/Imagem/SalvarImagem");
+                request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
+                request.Content = content;
+
+                HttpResponseMessage response = await _client.SendAsync(request);
+                string responseContent = await response.Content.ReadAsStringAsync();
+
+                if (response.StatusCode == HttpStatusCode.Unauthorized)
+                {
+                    _navigation.NavigateTo("/");
+                }
+                else if (!response.IsSuccessStatusCode)
+                    throw new Exception($"{response.StatusCode}");
+            }
+
+        }
+
+        #endregion
+
+        public async Task<string> CriarImovel(tb_imovel imovel)
         {
             string token = await ObterToken();
 
@@ -82,6 +119,8 @@ namespace imobiliariaCivitas_wasm.Services
             }
             else if (!response.IsSuccessStatusCode)
                 throw new Exception($"{response.StatusCode}");
+
+            return responseContent;
         }
 
         #region Token
