@@ -8,13 +8,14 @@
 <hr/>
 <AuthorizeView>
     <Authorized>
+        <RadzenButton class="btn-add" Text="+" Click="@(async () => await AbrirModalCadastro(new()))" />
         <RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" FilterMode="FilterMode.Simple" AllowSorting="true" class="custom-grid"
         PageSize="7" Style="height: 70vh;" AllowPaging="true" PagerHorizontalAlign="HorizontalAlign.Center" Data="Imoveis" AllowAlternatingRows="true">
             <Columns>
                 <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.cd_imovel" Title="Código do Imóvel"/>
                 <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.descricao" Title="Descrição"/>
-                <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.criadoEm" Title="Descrição" FormatString="{0:dd/MM/yyyy}" />
-                <RadzenDataGridColumn TItem="tb_imovel" Title="Ação">
+                <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.criadoEm" Title="Data de Criação" FormatString="{0:dd/MM/yyyy}"/>
+                <RadzenDataGridColumn TItem="tb_imovel" Title="Ações">
                     <Template Context="Entity">
                         <div style="display: flex; justify-content: space-around;">
                             <RadzenIcon title="Editar" Icon="edit" style="cursor: pointer;" @onclick="@(async () => await AbrirModalCadastro(Entity))" />
@@ -56,10 +57,10 @@
 
         var options = new DialogOptions
         {
-            Width = "600px",
-            Height = "400px",
-            Resizable = true,  // Opção de tornar a modal redimensionável
-            Draggable = true   // Permite arrastar a modal
+            Width = "100vw",
+            Height = "100vh",
+            Resizable = false,  // Opção de tornar a modal redimensionável
+            Draggable = false   // Permite arrastar a modal
         };
 
         await DialogService.OpenAsync<EditarImovel>("Editar Imóvel", parameters, options);

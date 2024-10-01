@@ -4,6 +4,7 @@ using Blazored.LocalStorage;
 using System.Net.Http.Headers;
 using System.Net;
 using Microsoft.AspNetCore.Components;
+using System.Text;
 
 namespace imobiliariaCivitas_wasm.Services
 {
@@ -60,6 +61,28 @@ namespace imobiliariaCivitas_wasm.Services
             return JsonSerializer.Deserialize<List<tb_imagem>>(content);
         }
 
+        public async Task CriarImovel(tb_imovel imovel)
+        {
+            string token = await ObterToken();
+
+            string jsonImovel = JsonSerializer.Serialize(imovel);
+
+            var content = new StringContent(jsonImovel, Encoding.UTF8, "application/json");
+
+            var request = new HttpRequestMessage(HttpMethod.Post, $"https://localhost:7142/Imovel/CriarImovel");
+            request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
+            request.Content = content;
+
+            HttpResponseMessage response = await _client.SendAsync(request);
+            string responseContent = await response.Content.ReadAsStringAsync();
+
+            if (response.StatusCode == HttpStatusCode.Unauthorized)
+            {
+                _navigation.NavigateTo("/");
+            }
+            else if (!response.IsSuccessStatusCode)
+                throw new Exception($"{response.StatusCode}");
+        }
 
         #region Token
         public  async Task<string> ObterToken()

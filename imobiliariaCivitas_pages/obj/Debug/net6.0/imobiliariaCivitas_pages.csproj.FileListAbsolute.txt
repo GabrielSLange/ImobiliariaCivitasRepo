@@ -62,3 +62,35 @@ C:\Users\Gabriel - Dev\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobili
 C:\Users\Gabriel - Dev\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.pdb
 C:\Users\Gabriel - Dev\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.genruntimeconfig.cache
 C:\Users\Gabriel - Dev\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\ref\imobiliariaCivitas_pages.dll
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\appsettings.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\imobiliariaCivitas_pages.staticwebassets.runtime.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\imobiliariaCivitas_pages.exe
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\imobiliariaCivitas_pages.deps.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\imobiliariaCivitas_pages.runtimeconfig.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\imobiliariaCivitas_pages.dll
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\bin\Debug\net6.0\imobiliariaCivitas_pages.pdb
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.AssemblyInfo.cs
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.RazorAssemblyInfo.cache
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.RazorAssemblyInfo.cs
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.sourcelink.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_pages.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\staticwebassets\msbuild.build.imobiliariaCivitas_pages.props
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imobiliariaCivitas_pages.props
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imobiliariaCivitas_pages.props
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\scopedcss\bundle\imobiliariaCivitas_pages.styles.css
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\scopedcss\projectbundle\imobiliariaCivitas_pages.bundle.scp.css
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.dll
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\refint\imobiliariaCivitas_pages.dll
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.pdb
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\imobiliariaCivitas_pages.genruntimeconfig.cache
+C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_pages\obj\Debug\net6.0\ref\imobiliariaCivitas_pages.dll

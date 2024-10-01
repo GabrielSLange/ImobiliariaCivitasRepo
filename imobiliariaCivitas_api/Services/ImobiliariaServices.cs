@@ -25,12 +25,20 @@ namespace imobiliariaCivitas_api.Services
         {
             return await _context.tb_imoveis.ToListAsync();
         }
+
+        public async Task<int> CriarImovel(tb_imovel imovel)
+        {
+            await _context.AddAsync(imovel);
+            await _context.SaveChangesAsync();
+            return imovel.cd_imovel;
+        }
         #endregion
 
         #region Imagem
         public async Task SalvarImagem(int cdImovel, string? imagem)
         {
-            tb_imovel imovel = await _context.tb_imoveis.FirstOrDefaultAsync(tb => tb.cd_imovel == cdImovel) ?? throw new Exception($"Imovel não encontrado para o cd_imovel = {cdImovel}");
+            tb_imovel imovel = await _context.tb_imoveis.FirstOrDefaultAsync(tb => tb.cd_imovel == cdImovel) 
+                ?? throw new Exception($"Imovel não encontrado para o cd_imovel = {cdImovel}");
             
             if (imagem != null)
             {
@@ -42,7 +50,7 @@ namespace imobiliariaCivitas_api.Services
                     imovel = imovel
                 };
 
-                _context.tb_imagens.Add(imagemModel);
+                _context.Add(imagemModel);
                 await _context.SaveChangesAsync();
             }
             else

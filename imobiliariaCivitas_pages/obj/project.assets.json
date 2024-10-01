@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\": {}
+    "C:\\Users\\Gabriel Lange\\.nuget\\packages\\": {},
+    "D:\\Visual Studio Compartilhados\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
       "projectName": "imobiliariaCivitas_pages",
-      "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
-      "packagesPath": "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
+      "packagesPath": "C:\\Users\\Gabriel Lange\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel Lange\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Visual Studio Compartilhados\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gabriel - Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabriel Lange\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

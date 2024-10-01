@@ -23,9 +23,22 @@ namespace imobiliariaCivitas_api.Controllers
         {
             try
             {
-                return Ok( await _services.ObterImoveis());          
+                return Ok(await _services.ObterImoveis());
             }
-            catch (Exception ex) 
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<int>> CriarImovel(tb_imovel imovel)
+        {
+            try
+            {                ;
+                return Ok(await _services.CriarImovel(imovel));
+            }
+            catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }

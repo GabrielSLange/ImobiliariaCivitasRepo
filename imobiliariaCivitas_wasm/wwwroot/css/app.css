@@ -62,3 +62,20 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+.medium-image {
+    width: 350px; /* Tamanho médio das imagens */
+    height: 250px; /* Proporção fixa */
+    object-fit: cover; /* Garante que a imagem preencha o espaço sem distorcer */
+    cursor: pointer; /* Indica que a imagem pode ser clicada */
+}
+
+.img-thumbnail {
+    border-radius: 10px; /* Bordas arredondadas para uma aparência agradável */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.full-image {
+    max-width: 100%; /* O modal exibirá a imagem em tela cheia */
+    height: auto;
+}

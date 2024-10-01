@@ -12,7 +12,16 @@ a, .btn-link {
     color: #0071c1;
 }
 
+p{
+    color: black !important;
+}
+
+.form-control::placeholder {
+    color: black !important;
+}
+
 .btn-primary {
+    color: black !important;
     color: #fff;
     background-color: #1b6ec2;
     border-color: #1861ac;
