@@ -6331,19 +6331,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\biell\\.nuget\\packages\\": {}
+    "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
       "projectName": "imobiliariaCivitas_api",
-      "projectPath": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
-      "packagesPath": "C:\\Users\\biell\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
+      "packagesPath": "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\biell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabriel - Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6358,8 +6358,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
-              "projectPath": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj"
+            "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
+              "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj"
             }
           }
         }

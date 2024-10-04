@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {}
+    "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {}
   },
   "projects": {
-    "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
+    "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
         "projectName": "imobiliariaCivitas_shared",
-        "projectPath": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
-        "packagesPath": "C:\\Users\\biell\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\obj\\",
+        "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
+        "packagesPath": "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\biell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gabriel - Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

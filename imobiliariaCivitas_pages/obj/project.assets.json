@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\biell\\.nuget\\packages\\": {}
+    "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
       "projectName": "imobiliariaCivitas_pages",
-      "projectPath": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
-      "packagesPath": "C:\\Users\\biell\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos - Dev\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\imobiliariaCivitas_pages.csproj",
+      "packagesPath": "C:\\Users\\Gabriel - Dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\biell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabriel - Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -78,12 +78,15 @@
         selectedImage = null;
     }
 
+
     private async Task HandleFileSelection(InputFileChangeEventArgs e)
     {
+        const long maxAllowedSize = 1024 * 1024 * 10; // 10MB
+
         foreach (var file in e.GetMultipleFiles())
         {
             var buffer = new byte[file.Size];
-            using (var stream = file.OpenReadStream())
+            using (var stream = file.OpenReadStream(maxAllowedSize))
             {
                 await stream.ReadAsync(buffer, 0, buffer.Length);
             }
