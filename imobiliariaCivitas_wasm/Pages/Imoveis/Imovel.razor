@@ -6,8 +6,8 @@
 
 <h1>Imóveis</h1>
 <hr/>
-<AuthorizeView>
-    <Authorized>
+@* <AuthorizeView>
+    <Authorized> *@
         <RadzenButton class="btn-add" Text="+" Click="@(async () => await AbrirModalCadastro(new()))" />
         <RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" FilterMode="FilterMode.Simple" AllowSorting="true" class="custom-grid"
         PageSize="7" Style="height: 70vh;" AllowPaging="true" PagerHorizontalAlign="HorizontalAlign.Center" Data="Imoveis" AllowAlternatingRows="true">
@@ -25,13 +25,13 @@
 
             </Columns>
         </RadzenDataGrid>
-    </Authorized>
+@*     </Authorized>
 
     <NotAuthorized>
         <p>Você não está autorizado a ver esta página. Por favor, faça login.</p>
         <button @onclick="redirecionar">Ir para Login</button>
     </NotAuthorized>
-</AuthorizeView>
+</AuthorizeView> *@
 
 
 @code {

@@ -118,10 +118,12 @@
 
     public async Task SalvarImovel()
     {
-       string cdImovel = await _services.CriarImovel(Imovel);
+        string cdImovel = await _services.CriarImovel(Imovel);
 
-       await _services.AtualizarImagens(base64String, imagensRemovidas, int.Parse(cdImovel));
+        await _services.AtualizarImagens(base64String, imagensRemovidas, int.Parse(cdImovel));
 
+
+        StateHasChanged();
         DialogService.Close();
     }
 }
