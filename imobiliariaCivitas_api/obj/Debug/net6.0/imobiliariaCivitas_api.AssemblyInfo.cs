@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("imobiliariaCivitas_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+339335eb13f5291c27ef75f2216e7f66ecc2da08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685e5ab786a039bff463b1a54da260a9921f03a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("imobiliariaCivitas_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imobiliariaCivitas_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
