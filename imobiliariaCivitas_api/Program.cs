@@ -14,9 +14,11 @@ namespace imobiliariaCivitas_api
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.WebHost.UseUrls("http://0.0.0.0:5000");           
+
             ConfiguracaoAutenticacao(builder);
 
-            // Adiciona o serviço de CORS
+            // Adiciona o serviÃ§o de CORS
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll",
@@ -34,10 +36,10 @@ namespace imobiliariaCivitas_api
 
             var app = builder.Build();
 
-            // Ativa o CORS usando a política configurada
+            // Ativa o CORS usando a polÃ­tica configurada
             app.UseCors("AllowAll");
 
-            app.UseAuthentication();  // Adiciona o middleware de autenticação
+            app.UseAuthentication();  // Adiciona o middleware de autenticaÃ§Ã£o
             app.UseAuthorization();
 
             app.UseSwagger();
@@ -88,7 +90,7 @@ namespace imobiliariaCivitas_api
                 {
                     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Imobiliaria API", Version = "v1" });
 
-                    // Configuração do JWT para Swagger
+                    // ConfiguraÃ§Ã£o do JWT para Swagger
                     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                     {
                         Name = "Authorization",
