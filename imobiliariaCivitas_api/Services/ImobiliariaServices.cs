@@ -21,6 +21,23 @@ namespace imobiliariaCivitas_api.Services
         }
 
         #region Imoveis
+
+        public List<tb_imovel> ObterImoveisTeste()
+        {
+            List<tb_imovel> imoveis = new() ;
+            for (int i = 0; i < 10; i++)
+            {
+                tb_imovel imovel = new()
+                {
+                    descricao = $"Imovel {i}"
+                };
+                imoveis.Add(imovel);
+            }
+
+            return imoveis;
+        }
+
+
         public async Task<List<tb_imovel>> ObterImoveis()
         {
             return await _context.tb_imoveis.ToListAsync();

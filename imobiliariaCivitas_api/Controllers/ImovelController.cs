@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace imobiliariaCivitas_api.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [ApiController]
     [Route("[controller]/[action]")]
     public class ImovelController : ControllerBase
@@ -17,6 +17,18 @@ namespace imobiliariaCivitas_api.Controllers
             _services = services;
         }
 
+        [HttpGet]
+        public ActionResult<List<tb_imovel>> GetImovelTeste()
+        {
+            try
+            {
+                return Ok(_services.ObterImoveisTeste());
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
 
         [HttpGet]
         public async Task<ActionResult<List<tb_imovel>>> GetImovel()

@@ -7,7 +7,7 @@ namespace imobiliariaCivitas_shared.Model
     {
         [Key]
         public int cd_imovel { get; set; }
-        public string descricao { get; set; } = null!;
+        public string? descricao { get; set; }
         public DateTime criadoEm { get; set; } = DateTime.UtcNow;
 
         [JsonIgnore]
