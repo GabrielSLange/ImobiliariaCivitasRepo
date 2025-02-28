@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DM44uLhVufE=",
+  "dgSpecHash": "N1jbPiKY/DT0ynIf9cozKbb3aYlXuZHXg07GN/yxIjZhHUPSYUAqzoLMut3wQ5y8AZ/aShC0hX0I9CZSUJ48Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
+  "projectFilePath": "/var/www/api/imobiliariaCivitas_shared/imobiliariaCivitas_shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

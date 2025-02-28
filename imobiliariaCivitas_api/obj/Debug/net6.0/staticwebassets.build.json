@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "xKbG3H+lxT5fo1N26ocGmAC4tWqYpVdT6qyV20S6EQo=",
+  "Hash": "Izg60Rigkdze4jNmqHYRXa2PAQWCum1qRjqHCRtav70=",
   "Source": "imobiliariaCivitas_api",
   "BasePath": "_content/imobiliariaCivitas_api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

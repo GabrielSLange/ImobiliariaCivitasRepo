@@ -1,71 +1,83 @@
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.deps.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfoInputs.cache
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfo.cs
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\refint\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\ref\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.deps.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfoInputs.cache
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfo.cs
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.sourcelink.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\refint\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\ref\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.deps.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfoInputs.cache
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfo.cs
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.sourcelink.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\refint\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\ref\imobiliariaCivitas_shared.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.deps.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfoInputs.cache
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfo.cs
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.sourcelink.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\refint\imobiliariaCivitas_shared.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.pdb
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\ref\imobiliariaCivitas_shared.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.deps.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfoInputs.cache
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfo.cs
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.sourcelink.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\refint\imobiliariaCivitas_shared.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\ref\imobiliariaCivitas_shared.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.deps.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfoInputs.cache
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.AssemblyInfo.cs
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.sourcelink.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\refint\imobiliariaCivitas_shared.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_shared\obj\Debug\net6.0\ref\imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.deps.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfoInputs.cache
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfo.cs
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/refint/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/ref/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.deps.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfoInputs.cache
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfo.cs
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.sourcelink.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/refint/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/ref/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.deps.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfoInputs.cache
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfo.cs
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.sourcelink.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/refint/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/ref/imobiliariaCivitas_shared.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.deps.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfoInputs.cache
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfo.cs
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.sourcelink.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/refint/imobiliariaCivitas_shared.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.pdb
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/ref/imobiliariaCivitas_shared.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.deps.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfoInputs.cache
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfo.cs
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.sourcelink.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/refint/imobiliariaCivitas_shared.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/ref/imobiliariaCivitas_shared.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.deps.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfoInputs.cache
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfo.cs
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.sourcelink.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/refint/imobiliariaCivitas_shared.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_shared/obj/Debug/net6.0/ref/imobiliariaCivitas_shared.dll
+/var/www/api/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.deps.json
+/var/www/api/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+/var/www/api/imobiliariaCivitas_shared/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.AssemblyReference.cache
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfoInputs.cache
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.AssemblyInfo.cs
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.csproj.CoreCompileInputs.cache
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.dll
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/refint/imobiliariaCivitas_shared.dll
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/imobiliariaCivitas_shared.pdb
+/var/www/api/imobiliariaCivitas_shared/obj/Debug/net6.0/ref/imobiliariaCivitas_shared.dll

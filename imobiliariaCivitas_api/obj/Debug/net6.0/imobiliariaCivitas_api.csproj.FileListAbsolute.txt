@@ -1,334 +1,404 @@
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.exe
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.deps.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.runtimeconfig.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.AssemblyReference.cache
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfoInputs.cache
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfo.cs
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.build.imobiliariaCivitas_api.props
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imobiliariaCivitas_api.props
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\scopedcss\bundle\imobiliariaCivitas_api.styles.css
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobilia.A08722A0.Up2Date
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\refint\imobiliariaCivitas_api.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.genruntimeconfig.cache
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\ref\imobiliariaCivitas_api.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Gabriel - Dev\source\repos\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.exe
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.deps.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.runtimeconfig.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\BCrypt.Net-Next.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.AssemblyReference.cache
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfoInputs.cache
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfo.cs
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.sourcelink.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.build.imobiliariaCivitas_api.props
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imobiliariaCivitas_api.props
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\scopedcss\bundle\imobiliariaCivitas_api.styles.css
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobilia.A08722A0.Up2Date
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\refint\imobiliariaCivitas_api.dll
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.genruntimeconfig.cache
-C:\Users\Gabriel - Dev\Source\Repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\ref\imobiliariaCivitas_api.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.exe
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.deps.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.runtimeconfig.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\BCrypt.Net-Next.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.AssemblyReference.cache
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfoInputs.cache
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfo.cs
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.sourcelink.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.build.imobiliariaCivitas_api.props
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imobiliariaCivitas_api.props
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\scopedcss\bundle\imobiliariaCivitas_api.styles.css
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobilia.A08722A0.Up2Date
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\refint\imobiliariaCivitas_api.dll
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.genruntimeconfig.cache
-C:\Users\Gabriel Lange\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\ref\imobiliariaCivitas_api.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.Development.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.exe
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.deps.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.runtimeconfig.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.pdb
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\BCrypt.Net-Next.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Humanizer.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.AssemblyReference.cache
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfoInputs.cache
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfo.cs
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.sourcelink.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.development.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.build.imobiliariaCivitas_api.props
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imobiliariaCivitas_api.props
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.pack.json
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\scopedcss\bundle\imobiliariaCivitas_api.styles.css
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobilia.A08722A0.Up2Date
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\refint\imobiliariaCivitas_api.dll
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.pdb
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.genruntimeconfig.cache
-D:\Projetos - Dev\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\ref\imobiliariaCivitas_api.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.staticwebassets.endpoints.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.exe
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.deps.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.runtimeconfig.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\BCrypt.Net-Next.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Humanizer.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.AssemblyReference.cache
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfoInputs.cache
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfo.cs
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.sourcelink.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\scopedcss\bundle\imobiliariaCivitas_api.styles.css
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.build.imobiliariaCivitas_api.props
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imobiliariaCivitas_api.props
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobilia.A08722A0.Up2Date
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\refint\imobiliariaCivitas_api.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.genruntimeconfig.cache
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\ref\imobiliariaCivitas_api.dll
-C:\Users\biell\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\appsettings.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.staticwebassets.endpoints.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.exe
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.deps.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.runtimeconfig.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\BCrypt.Net-Next.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Humanizer.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\bin\Debug\net6.0\imobiliariaCivitas_shared.pdb
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.AssemblyReference.cache
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfoInputs.cache
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfo.cs
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.sourcelink.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\scopedcss\bundle\imobiliariaCivitas_api.styles.css
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.build.endpoints.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.build.imobiliariaCivitas_api.props
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.imobiliariaCivitas_api.props
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobilia.A08722A0.Up2Date
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\refint\imobiliariaCivitas_api.dll
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.pdb
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.genruntimeconfig.cache
-C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\ref\imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.exe
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.deps.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.runtimeconfig.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.AssemblyReference.cache
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfoInputs.cache
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfo.cs
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.build.imobiliariaCivitas_api.props
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.imobiliariaCivitas_api.props
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/scopedcss/bundle/imobiliariaCivitas_api.styles.css
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobilia.A08722A0.Up2Date
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/refint/imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.genruntimeconfig.cache
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/ref/imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Gabriel - Dev/source/repos/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.exe
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.deps.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.runtimeconfig.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.AssemblyReference.cache
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfoInputs.cache
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfo.cs
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.sourcelink.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.build.imobiliariaCivitas_api.props
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.imobiliariaCivitas_api.props
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/scopedcss/bundle/imobiliariaCivitas_api.styles.css
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobilia.A08722A0.Up2Date
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/refint/imobiliariaCivitas_api.dll
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.genruntimeconfig.cache
+C:/Users/Gabriel - Dev/Source/Repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/ref/imobiliariaCivitas_api.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.exe
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.deps.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.runtimeconfig.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.AssemblyReference.cache
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfoInputs.cache
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfo.cs
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.sourcelink.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.build.imobiliariaCivitas_api.props
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.imobiliariaCivitas_api.props
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/scopedcss/bundle/imobiliariaCivitas_api.styles.css
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobilia.A08722A0.Up2Date
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/refint/imobiliariaCivitas_api.dll
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.genruntimeconfig.cache
+C:/Users/Gabriel Lange/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/ref/imobiliariaCivitas_api.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.Development.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.exe
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.deps.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.runtimeconfig.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.pdb
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/BCrypt.Net-Next.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Humanizer.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.AssemblyReference.cache
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfoInputs.cache
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfo.cs
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.sourcelink.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.development.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.build.imobiliariaCivitas_api.props
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.imobiliariaCivitas_api.props
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.pack.json
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/scopedcss/bundle/imobiliariaCivitas_api.styles.css
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobilia.A08722A0.Up2Date
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/refint/imobiliariaCivitas_api.dll
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.pdb
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.genruntimeconfig.cache
+D:/Projetos - Dev/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/ref/imobiliariaCivitas_api.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.staticwebassets.endpoints.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.exe
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.deps.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.runtimeconfig.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.AssemblyReference.cache
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfoInputs.cache
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfo.cs
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.sourcelink.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/scopedcss/bundle/imobiliariaCivitas_api.styles.css
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.build.imobiliariaCivitas_api.props
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.imobiliariaCivitas_api.props
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobilia.A08722A0.Up2Date
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/refint/imobiliariaCivitas_api.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.genruntimeconfig.cache
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/ref/imobiliariaCivitas_api.dll
+C:/Users/biell/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.upToDateCheck.txt
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.staticwebassets.endpoints.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.exe
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.deps.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.runtimeconfig.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/BCrypt.Net-Next.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.AssemblyReference.cache
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfoInputs.cache
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfo.cs
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.sourcelink.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/scopedcss/bundle/imobiliariaCivitas_api.styles.css
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.imobiliariaCivitas_api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.build.imobiliariaCivitas_api.props
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.imobiliariaCivitas_api.props
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.imobiliariaCivitas_api.props
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.upToDateCheck.txt
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobilia.A08722A0.Up2Date
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/refint/imobiliariaCivitas_api.dll
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.pdb
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.genruntimeconfig.cache
+C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imobiliariaCivitas_api/obj/Debug/net6.0/ref/imobiliariaCivitas_api.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.Development.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/appsettings.Development.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/web.config
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/appsettings.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/appsettings.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/imobiliariaCivitas_api.deps.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/imobiliariaCivitas_api.runtimeconfig.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.deps.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.runtimeconfig.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_api.pdb
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/BCrypt.Net-Next.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Humanizer.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/imobiliariaCivitas_shared.pdb
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.AssemblyReference.cache
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfoInputs.cache
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.AssemblyInfo.cs
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.build.json
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/staticwebassets.development.json
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/scopedcss/bundle/imobiliariaCivitas_api.styles.css
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.csproj.CopyComplete
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.dll
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/refint/imobiliariaCivitas_api.dll
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.pdb
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/imobiliariaCivitas_api.genruntimeconfig.cache
+/var/www/api/imobiliariaCivitas_api/obj/Debug/net6.0/ref/imobiliariaCivitas_api.dll
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/web.config
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/appsettings.Development.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/appsettings.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/imobiliariaCivitas_api.deps.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/imobiliariaCivitas_api.runtimeconfig.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/web.config
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/appsettings.Development.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/appsettings.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/imobiliariaCivitas_api.deps.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/imobiliariaCivitas_api.runtimeconfig.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/web.config
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/appsettings.Development.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/appsettings.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/imobiliariaCivitas_api.deps.json
+/var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/imobiliariaCivitas_api.runtimeconfig.json

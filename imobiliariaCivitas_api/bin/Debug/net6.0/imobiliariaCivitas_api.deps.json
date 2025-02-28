@@ -1005,10 +1005,7 @@
       },
       "imobiliariaCivitas_shared/1.0.0": {
         "runtime": {
-          "imobiliariaCivitas_shared.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "imobiliariaCivitas_shared.dll": {}
         }
       }
     }
