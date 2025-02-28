@@ -21,12 +21,12 @@ namespace imobiliariaCivitas_wasm
             builder.Services.AddBlazoredLocalStorage();
 
             // Configuração do HttpClient para acessar a API
-            builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7142") });
+            builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://lange-dev.duckdns.org") });
 
             // Configuração do AuthenticationStateProvider para gerenciar o estado de autenticação
             builder.Services.AddScoped<EstadoAutenticacao>();
             builder.Services.AddScoped<AuthenticationStateProvider, EstadoAutenticacao>();
-
+            
             // Adicionar serviço de autenticação customizado
             builder.Services.AddScoped<AutenticacaoService>();
             builder.Services.AddScoped<ImobiliariaCivitasServices>();
