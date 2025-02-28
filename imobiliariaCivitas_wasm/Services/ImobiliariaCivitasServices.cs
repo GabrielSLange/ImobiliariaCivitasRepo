@@ -11,6 +11,8 @@ namespace imobiliariaCivitas_wasm.Services
 {
     public class ImobiliariaCivitasServices
     {
+
+        string Url = "https://lange-dev.duckdns.org";
         public readonly HttpClient _client;
         public readonly ILocalStorageService _localStorage;
         public readonly NavigationManager _navigation;
@@ -26,7 +28,7 @@ namespace imobiliariaCivitas_wasm.Services
 
             string token = await ObterToken();
 
-            var request = new HttpRequestMessage(HttpMethod.Get, "https://localhost:7142/Imovel/GetImovel");
+            var request = new HttpRequestMessage(HttpMethod.Get, $"{Url}/Imovel/GetImovel");
             request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             HttpResponseMessage response = await _client.SendAsync(request);
@@ -47,7 +49,7 @@ namespace imobiliariaCivitas_wasm.Services
         {
             string token = await ObterToken();
 
-            var request = new HttpRequestMessage(HttpMethod.Get, $"https://localhost:7142/Imagem/ObterImagensPorImovel?cdImovel={cdImovel}");
+            var request = new HttpRequestMessage(HttpMethod.Get, $"{Url}/Imagem/ObterImagensPorImovel?cdImovel={cdImovel}");
             request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             HttpResponseMessage response = await _client.SendAsync(request);
@@ -79,7 +81,7 @@ namespace imobiliariaCivitas_wasm.Services
 
                 var content = new StringContent(jsonImagem, Encoding.UTF8, "application/json");
 
-                var request = new HttpRequestMessage(HttpMethod.Post, $"https://localhost:7142/Imagem/SalvarImagem");
+                var request = new HttpRequestMessage(HttpMethod.Post, $"{Url}/Imagem/SalvarImagem");
                 request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
                 request.Content = content;
 
@@ -106,7 +108,7 @@ namespace imobiliariaCivitas_wasm.Services
 
             var content = new StringContent(jsonImovel, Encoding.UTF8, "application/json");
 
-            var request = new HttpRequestMessage(HttpMethod.Post, $"https://localhost:7142/Imovel/CriarImovel");
+            var request = new HttpRequestMessage(HttpMethod.Post, $"{Url}/Imovel/CriarImovel");
             request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
             request.Content = content;
 

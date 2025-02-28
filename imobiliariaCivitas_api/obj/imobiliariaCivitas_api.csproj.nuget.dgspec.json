@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/var/www/api/imobiliariaCivitas_api/imobiliariaCivitas_api.csproj": {}
+    "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj": {}
   },
   "projects": {
-    "/var/www/api/imobiliariaCivitas_api/imobiliariaCivitas_api.csproj": {
+    "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/www/api/imobiliariaCivitas_api/imobiliariaCivitas_api.csproj",
+        "projectUniqueName": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
         "projectName": "imobiliariaCivitas_api",
-        "projectPath": "/var/www/api/imobiliariaCivitas_api/imobiliariaCivitas_api.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/var/www/api/imobiliariaCivitas_api/obj/",
+        "projectPath": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\imobiliariaCivitas_api.csproj",
+        "packagesPath": "C:\\Users\\NovaContabilidade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\NovaContabilidade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/var/www/api/imobiliariaCivitas_shared/imobiliariaCivitas_shared.csproj": {
-                "projectPath": "/var/www/api/imobiliariaCivitas_shared/imobiliariaCivitas_shared.csproj"
+              "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
+                "projectPath": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj"
               }
             }
           }
@@ -36,7 +42,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -92,26 +104,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/var/www/api/imobiliariaCivitas_shared/imobiliariaCivitas_shared.csproj": {
+    "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/www/api/imobiliariaCivitas_shared/imobiliariaCivitas_shared.csproj",
+        "projectUniqueName": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
         "projectName": "imobiliariaCivitas_shared",
-        "projectPath": "/var/www/api/imobiliariaCivitas_shared/imobiliariaCivitas_shared.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/var/www/api/imobiliariaCivitas_shared/obj/",
+        "projectPath": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\imobiliariaCivitas_shared.csproj",
+        "packagesPath": "C:\\Users\\NovaContabilidade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\NovaContabilidade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -124,7 +142,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -145,7 +169,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
