@@ -145,3 +145,8 @@ bower_components/
 *.pfx
 *.publishsettings
 .localhistory/
+
+# Ignorar arquivos temporários do .NET
+bin/
+obj/
+out/
