@@ -1,0 +1,14 @@
+﻿/* Estilo para linhas ímpares */
+/*.custom-grid .rz-grid-table tbody tr:nth-child(odd) {
+    background-color: #e0f7fa;*/ /* Azul claro */
+/*}*/
+
+/* Estilo para linhas pares */
+/*.custom-grid .rz-grid-table tbody tr:nth-child(even) {
+    background-color: #e1bee7;*/ /* Roxo claro */
+/*}*/
+
+/* Estilo para a linha ao passar o mouse */
+/*.custom-grid .rz-grid-table tbody tr:hover {
+    background-color: #b2ebf2;*/ /* Azul mais escuro */
+/*}*/
