@@ -5,13 +5,19 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>imobiliariaCivitas_wasm</title>
+
+    <!-- Corrigido para GitHub Pages -->
+    <script>
+        var BASE_PATH = "/ImobiliariaCivitasRepo/";
+    </script>
     <base href="/ImobiliariaCivitasRepo/" />
 
-    <link href="./css/bootstrap/bootstrap.min.css" rel="stylesheet" />
-    <link href="./css/app.css" rel="stylesheet" />
-    <link href="./imobiliariaCivitas_wasm.styles.css" rel="stylesheet" />
-    <link rel="stylesheet" href="./_content/Radzen.Blazor/css/material-base.css">
-    <link rel="stylesheet" href="./css/site.css">
+    <!-- Ajustando os caminhos para garantir o carregamento correto -->
+    <link href="${BASE_PATH}css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="${BASE_PATH}css/app.css" rel="stylesheet" />
+    <link href="${BASE_PATH}imobiliariaCivitas_wasm.styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="${BASE_PATH}_content/Radzen.Blazor/css/material-base.css">
+    <link rel="stylesheet" href="${BASE_PATH}css/site.css">
 </head>
 
 <body>
@@ -23,8 +29,10 @@
         <a class="dismiss">🗙</a>
     </div>
 
-    <script src="./_framework/blazor.webassembly.js"></script>
-    <script src="./_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <!-- Ajustado para GitHub Pages -->
+    <script src="${BASE_PATH}_framework/blazor.webassembly.js"></script>
+    <script src="${BASE_PATH}_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+
 </body>
 
 </html>
