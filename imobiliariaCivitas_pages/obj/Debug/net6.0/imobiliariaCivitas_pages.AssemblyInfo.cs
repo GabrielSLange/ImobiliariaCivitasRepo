@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("imobiliariaCivitas_pages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb80f129f4a8764960b49e14cb24bc8daa81660b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6e0af75bafdf350f03439624413ce464de9b7af")]
 [assembly: System.Reflection.AssemblyProductAttribute("imobiliariaCivitas_pages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imobiliariaCivitas_pages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
