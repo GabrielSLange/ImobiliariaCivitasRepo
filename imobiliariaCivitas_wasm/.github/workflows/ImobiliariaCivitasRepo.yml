@@ -1,0 +1,53 @@
+name: Deploy
+
+on:
+  push:
+    branches: ["ImobiliariaCivitasRepo"]
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment: 
+      name: github-pages
+      url: ${{ steps.deploy.outputs.url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 6.0.x
+
+      - name: Install .NET Wasm Tools
+        run: dotnet workload install wasm tools
+
+      - name: Restore dependencies
+        run: dotnet restore
+      
+      - name: Build
+        run: dotnet build -c Release --no-restore
+
+      - name: Publish .NET
+        run: dotnet publish -c Release -o publish --no-restore -o docs --no-logo
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v0.1.3
+
+      - name: Upload
+        uses: actions/upload-artifact@v2
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v3
