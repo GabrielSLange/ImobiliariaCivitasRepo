@@ -1,7 +1,7 @@
 {
   "entryAssembly": "imobiliariaCivitas_wasm",
   "resources": {
-    "hash": "sha256-EhZ/qeyCKee4CQ14PqmwnJ7ELcxW+Ze3lxgcmzIORO4=",
+    "hash": "sha256-r+kdWbDF2xsAhb+oRHUYeTlSf3vo93WPSxTyRm2CCQQ=",
     "runtime": {
       "dotnet.js": "sha256-pu7MO47B6So4jcW6iY2UI11lBZYz2EQnJKiYNsOpNJg=",
       "dotnet.timezones.blat": "sha256-vrFYQt55a4tGoDGoyRfjjGa1nSecx646RK78iTzPWCM=",
@@ -13,8 +13,8 @@
     "coreAssembly": {},
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-lAGIyP65K8gc+7vvUYMTCNZJaXJtiHqSimcfhpcBOuQ=",
-      "imobiliariaCivitas_shared.dll": "sha256-7l1uWUQiYkGnY0hDED7PWOuuBoMOrZxvsuTSms+foz8=",
-      "imobiliariaCivitas_wasm.dll": "sha256-JM651aqk+kP5fdIpwL55YfiBY329d4uCkBx6OtZgfgE=",
+      "imobiliariaCivitas_shared.dll": "sha256-kF6XAR5r4NWeUlF4Rivdb2DgcLDkg0ZHdnm0NrK/nhg=",
+      "imobiliariaCivitas_wasm.dll": "sha256-KuOrET0LFM4dy4iZcLDDo/PnlVIXnhUoKAdIDKpcd3c=",
       "Microsoft.AspNetCore.Authentication.Abstractions.dll": "sha256-ifvoSVc8DNQfnb4y1EfCMxq+QoJygfmdtRyrm1mCojs=",
       "Microsoft.AspNetCore.Authentication.Core.dll": "sha256-5rOoRog+l6S0iw0a9aCF+ThWd88PjAvifqGwBGC40GM=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-C/KdbXzaZU4ROz3MKRdeDrZPfFYdMaBu/eCUUYSYJT4=",
