@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imobiliariaCivitas_pages", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imobiliariaCivitas_wasm", "imobiliariaCivitas_wasm\imobiliariaCivitas_wasm.csproj", "{4807B702-3CC5-4C40-BCD3-DF6C69BA9CFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imobiliaria_adm", "Imobiliaria_adm\Imobiliaria_adm.csproj", "{120A1685-65B9-4A80-80F2-AB52D6392DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4807B702-3CC5-4C40-BCD3-DF6C69BA9CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4807B702-3CC5-4C40-BCD3-DF6C69BA9CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4807B702-3CC5-4C40-BCD3-DF6C69BA9CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120A1685-65B9-4A80-80F2-AB52D6392DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120A1685-65B9-4A80-80F2-AB52D6392DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120A1685-65B9-4A80-80F2-AB52D6392DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120A1685-65B9-4A80-80F2-AB52D6392DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
