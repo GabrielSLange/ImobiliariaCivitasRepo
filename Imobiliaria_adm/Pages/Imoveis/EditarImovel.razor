@@ -1,0 +1,129 @@
+﻿@inject NavigationManager Navigation
+@inject DialogService DialogService
+
+
+<EditForm Model="Imovel" OnValidSubmit="@SalvarImovel">
+    <div class="form-grid">
+        <div class="form-group">
+            <label>Descrição</label>
+            <InputText @bind-Value="Imovel.descricao" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Data de Criação</label>
+            <InputDate @bind-Value="Imovel.criadoEm" class="form-control" disabled />
+        </div>
+
+        <label for="images" class="drop-container">
+            <span class="drop-title">Suba as imagens aqui</span>
+            <InputFile multiple id="images" class="file-input" OnChange="HandleFileSelection"></InputFile>
+        </label>
+
+        @if (base64String?.Count > 0)
+        {
+            <main class="container-fluid main-content">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-8 d-flex flex-wrap justify-content-center">
+                        @foreach (var base64 in base64String)
+                        {
+                            <div class="image-container m-2">
+                                <img src="data:image/png;base64,@base64" class="img-thumbnail medium-image" @onclick="() => OpenModal(base64)">
+                            </div>
+                            <div style="display: flex; justify-content: space-around;">
+                                <RadzenIcon title="Editar" Icon="delete" style="cursor: pointer;" @onclick="@(async () => await ExcluirImagem(base64))" />
+                            </div>
+                        }
+                    </div>
+                </div>
+            </main>
+
+            @if (!string.IsNullOrEmpty(selectedImage))
+            {
+                <div class="modal" tabindex="-1" style="display: block; background-color: rgba(0, 0, 0, 0.5);" @onclick="CloseModal">
+                    <div class="modal-dialog modal-lg modal-centered">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <img src="data:image/png;base64,@selectedImage" class="img-fluid full-image" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Salvar</button>
+        </div>
+    </div>
+</EditForm>
+
+@code {
+    [Parameter] public int cdImovel { get; set; } = 0;
+    [Parameter] public tb_imovel? Imovel { get; set; }
+    public List<tb_imagem>? Imagens { get; set; }
+    private List<string>? base64String { get; set; } = new();
+    List<string>? imagensRemovidas { get; set; } = new();
+
+    private string? selectedImage;
+
+    private void OpenModal(string base64)
+    {
+        selectedImage = base64;
+    }
+
+    private void CloseModal()
+    {
+        selectedImage = null;
+    }
+
+
+    private async Task HandleFileSelection(InputFileChangeEventArgs e)
+    {
+        const long maxAllowedSize = 1024 * 1024 * 10; // 10MB
+
+        foreach (var file in e.GetMultipleFiles())
+        {
+            var buffer = new byte[file.Size];
+            using (var stream = file.OpenReadStream(maxAllowedSize))
+            {
+                await stream.ReadAsync(buffer, 0, buffer.Length);
+            }
+            base64String?.Add(Convert.ToBase64String(buffer));
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (cdImovel != 0)
+        {
+            Imagens = await _services.ObterImagensImovel(cdImovel);
+
+            foreach (tb_imagem imagem in Imagens)
+            {
+                base64String?.Add(imagem.imageBase64);
+            }
+        }
+    }
+
+    public async Task ExcluirImagem(string imgBase64)
+    {
+        if (base64String?.Count != 0)
+        {
+            base64String?.Remove(imgBase64);
+            imagensRemovidas?.Add(imgBase64);
+        }
+    }
+
+    public async Task SalvarImovel()
+    {
+        string cdImovel = await _services.CriarImovel(Imovel);
+
+        await _services.AtualizarImagens(base64String, imagensRemovidas, int.Parse(cdImovel));
+
+
+        StateHasChanged();
+        DialogService.Close();
+    }
+}
+

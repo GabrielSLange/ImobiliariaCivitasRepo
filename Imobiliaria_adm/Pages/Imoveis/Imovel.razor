@@ -1,0 +1,85 @@
+﻿@page "/imoveis"
+@inject NavigationManager Navigation
+@inject DialogService DialogService
+
+@if(load)
+{
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+}
+else
+{
+    <h1>Imóveis</h1>
+    <hr />
+    @* <AuthorizeView>
+    <Authorized> *@
+    <RadzenButton class="btn-add" Text="+" Click="@(async () => await AbrirModalCadastro(new()))" />
+    <RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" FilterMode="FilterMode.Simple" AllowSorting="true" class="custom-grid"
+                    PageSize="7" Style="height: 70vh;" AllowPaging="true" PagerHorizontalAlign="HorizontalAlign.Center" Data="Imoveis" AllowAlternatingRows="true">
+        <Columns>
+            <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.cd_imovel" Title="Código do Imóvel" />
+            <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.descricao" Title="Descrição" />
+            <RadzenDataGridColumn TItem="tb_imovel" Property="Imoveis.criadoEm" Title="Data de Criação" FormatString="{0:dd/MM/yyyy}" />
+            <RadzenDataGridColumn TItem="tb_imovel" Title="Ações">
+                <Template Context="Entity">
+                    <div style="display: flex; justify-content: space-around;">
+                        <RadzenIcon title="Editar" Icon="edit" style="cursor: pointer;" @onclick="@(async () => await AbrirModalCadastro(Entity))" />
+                    </div>
+                </Template>
+            </RadzenDataGridColumn>
+
+        </Columns>
+    </RadzenDataGrid>
+    @*     </Authorized>
+
+    <NotAuthorized>
+        <p>Você não está autorizado a ver esta página. Por favor, faça login.</p>
+        <button @onclick="redirecionar">Ir para Login</button>
+    </NotAuthorized>
+    </AuthorizeView> *@
+
+}
+
+
+@code {
+    List<tb_imovel>? Imoveis { get; set; }
+
+    bool load = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        load = true;
+        Imoveis = await _services.ObterImoveis();
+        load = false;
+    }
+
+    void redirecionar()
+    {
+        Navigation.NavigateTo("/");
+    }
+
+    private async Task AbrirModalCadastro(tb_imovel Imovel)
+    {
+        var parameters = new Dictionary<string, object>
+        {
+            { "cdImovel", Imovel.cd_imovel },
+            { "Imovel", Imovel }
+        };
+
+        var options = new DialogOptions
+            {
+                Width = "100%",
+                Height = "100%",
+                Resizable = false,
+                Draggable = true
+            };
+
+        await DialogService.OpenAsync<EditarImovel>("Editar Imóvel", parameters, options);
+    }
+
+}

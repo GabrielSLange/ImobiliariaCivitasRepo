@@ -1,10 +1,30 @@
 ﻿@inherits LayoutComponentBase
+
+<style>
+    .page {
+        display: flex;
+        min-height: 100vh;
+    }
+
+    .sidebar {
+        width: 250px;
+        background-color: #333;
+        color: white;
+    }
+
+    main {
+        flex: 1;
+        padding: 20px;
+    }
+</style>
+
 <div class="page">
     <div class="sidebar">
         <NavMenu />
     </div>
 
     <main>
+        <RadzenDialog />
         <div class="top-row px-4">
             <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
         </div>

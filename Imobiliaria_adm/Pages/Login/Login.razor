@@ -1,0 +1,70 @@
+﻿@page "/"
+
+@layout LoginLayout
+@using System.ComponentModel.DataAnnotations
+
+@inject HttpClient Http
+@inject NavigationManager Navigation
+@inject EstadoAutenticacao AuthStateProvider
+@inject ILocalStorageService LocalStorage
+
+<h3>Login</h3>
+
+<EditForm Model="loginModel" OnValidSubmit="HandleLogin">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    @if (erroRequest)
+    {
+        <div class="alert-danger">
+            <p>@erro</p>
+        </div>
+    }
+
+    <div class="input-group">
+        <label>Email: </label>
+        <InputText @bind-Value="loginModel.usuario" placeholder="Digite seu usuário" />
+        <ValidationMessage For="@(() => loginModel.usuario)" />
+    </div>
+    <div class="input-group">
+        <label>Senha: </label>
+        <InputText @bind-Value="loginModel.senha" type="password" placeholder="Digite sua senha" />
+        <ValidationMessage For="@(() => loginModel.senha)" />
+    </div>
+    <button type="submit">Entrar</button>
+</EditForm>
+
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    bool erroRequest = false;
+    string erro = "";
+
+    private async Task HandleLogin()
+    {
+        var response = await Http.PostAsJsonAsync($"{Http.BaseAddress}login", loginModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            var token = await response.Content.ReadAsStringAsync();
+
+            await LocalStorage.SetItemAsync("authToken", token);
+            AuthStateProvider.MarkUserAsAuthenticated(token);
+            Http.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
+            erroRequest = false;
+            Navigation.NavigateTo("/Imoveis");
+        }
+        else
+        {
+            erro = await response.Content.ReadAsStringAsync();
+            Console.WriteLine(erro);
+            erroRequest = true;
+        }
+    }
+
+    public class LoginModel
+    {
+        public string? usuario { get; set; }
+        public string? senha { get; set; }
+    }
+}
