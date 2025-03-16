@@ -1,9 +1,0 @@
-﻿@code {
-    protected override void OnInitialized()
-    {
-        var path = NavigationManager.Uri.Split(NavigationManager.BaseUri).LastOrDefault();
-        NavigationManager.NavigateTo("#/" + path, forceLoad: true);
-    }
-
-    [Inject] NavigationManager NavigationManager { get; set; }
-}
