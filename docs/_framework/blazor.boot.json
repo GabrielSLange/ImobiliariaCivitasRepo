@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Imobiliaria_adm",
   "resources": {
-    "hash": "sha256-4vW4a02F4TI4wifJxBtO6MkvI/kKaNhWV3kPhfLUlhc=",
+    "hash": "sha256-33AcMdqW2wvkM+QGwYdk1bwdFchuUwoUpuC4+n7TFuo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-/RR8esJa0/afOhaDLWTwQ3jpoKvCbobR5ZfHiYp+O7s="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "Imobiliaria_adm.wasm": "sha256-LCLKvsoRgXVGUq7v9BA66lDQqM6WS7n5OHWWbq2xvrI=",
+      "Imobiliaria_adm.wasm": "sha256-m0XuWPBvfC3VccOdJLw+xsvUovob5jKKBLH5WO2i810=",
       "imobiliariaCivitas_shared.wasm": "sha256-unYZ33JRI696cbDNrWL7HsbltEUgKwq76tMi/3erong=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-QP6H1uVALZ0oqESy8C93YoEFkASdpiQOahyQ/Z2gghM=",
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-lAejOC4QWSxCVD1tqn26vOdZeTE42RpedsBUcPVzPz4=",
