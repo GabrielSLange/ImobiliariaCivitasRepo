@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dgead1jtDXlKUeEkH3Q3zPrvzqsg3DnzkByuIm7UPPs=",
+  "Hash": "bjouUzhV5OXrht9BrLhOeyUhCgutFgwslicXZLiC9OI=",
   "Source": "imobiliariaCivitas_pages",
   "BasePath": "_content/imobiliariaCivitas_pages",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "imobiliariaCivitas_pages\\wwwroot",
       "Source": "imobiliariaCivitas_pages",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\imobiliariaCivitas_pages.styles.css",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\imobiliariaCivitas_pages.styles.css",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "imobiliariaCivitas_pages.styles.css",
+      "RelativePath": "imobiliariaCivitas_pages#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,17 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "zbiifxizui",
+      "Integrity": "T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\imobiliariaCivitas_pages.styles.css"
+      "OriginalItemSpec": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\imobiliariaCivitas_pages.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\imobiliariaCivitas_pages.bundle.scp.css",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\imobiliariaCivitas_pages.bundle.scp.css",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "imobiliariaCivitas_pages.bundle.scp.css",
+      "RelativePath": "imobiliariaCivitas_pages#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -50,427 +52,2443 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "zbiifxizui",
+      "Integrity": "T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\imobiliariaCivitas_pages.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\imobiliariaCivitas_pages.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/bootstrap/bootstrap.min.css",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/bootstrap/bootstrap.min.css.map",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "cmapd0fi15",
+      "Integrity": "BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "0uw8dim9nl",
+      "Integrity": "OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "wk8x8xm0ah",
+      "Integrity": "sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "sjnzgf7e1h",
+      "Integrity": "+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ll5grcv8wv",
+      "Integrity": "p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
+      "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "h4d0pazwgy",
+      "Integrity": "cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "48tmkg660f",
+      "Integrity": "jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/ICON-LICENSE",
+      "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4dwjve0o0b",
+      "Integrity": "aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/open-iconic/README.md",
+      "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8h4oiah9s0",
+      "Integrity": "rDb1fXbrDo8/dpt6Gi3UAobONVQv/lE2bB7lGwRQ0jM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\site.css",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "u93wkq7bcw",
+      "Integrity": "kkReKtKzSd4u2zkRZ5MXvjdKYZTcwEV+KwOIlyv6p/o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\favicon.ico",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\imgFundo.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\imgFundo.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/imgFundo.jpg",
+      "RelativePath": "images/imgFundo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "uaczob2i0i",
+      "Integrity": "+hJ0Hj2DDyXknxEuPr++UzmFc4i5mjq8ck2VB9koKHc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\imgFundo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/logo.jpg",
+      "RelativePath": "images/logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2aeq10jp4f",
+      "Integrity": "NiQR40GeMViLgysBT/XWUvWJe9bECP2hy57wEnJ1zWI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/logo1.jpg",
+      "RelativePath": "images/logo1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ygn65tdycl",
+      "Integrity": "rjoO3lWsPBuybg3esA1P1czNkfCpuLnlPW/jI9isD6E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1-1.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1-1.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/logo1-1.jpg",
+      "RelativePath": "images/logo1-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "79yu2zmmnh",
+      "Integrity": "65Yt43mUKfkhmBYkwmJlZ5SLeWTF3/wDhXpytG1JdxA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo1-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto1.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto1.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/Produtos/Produto1.jpg",
+      "RelativePath": "images/Produtos/Produto1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ffqshb7xsr",
+      "Integrity": "y+FkTharJrwoMSo7hRnC4Csihd0BNW8sBQMNYGokpWo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Produtos\\Produto1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto2.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto2.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/Produtos/Produto2.jpg",
+      "RelativePath": "images/Produtos/Produto2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "lqqawk3zra",
+      "Integrity": "I3rcpmf2QwyP0GFYDBnm2XP2tKJ6vDewXp0qI5NeHy8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Produtos\\Produto2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto3.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto3.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/Produtos/Produto3.jpg",
+      "RelativePath": "images/Produtos/Produto3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "o4tvczjak0",
+      "Integrity": "yLLAIyc9u0WEJci2WNlIxH8F556RpK96PbrkicU3i0o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Produtos\\Produto3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto4.jpg",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto4.jpg",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "images/Produtos/Produto4.jpg",
+      "RelativePath": "images/Produtos/Produto4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "mvzdpp5qgf",
+      "Integrity": "HnxhX0nMCDD4lKsHd/rK/OOA+1/D5Ss0KRAWB1uVtNI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Produtos\\Produto4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\Js\\script.js",
+      "Identity": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\Js\\script.js",
       "SourceId": "imobiliariaCivitas_pages",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel - Dev\\Source\\Repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\",
       "BasePath": "_content/imobiliariaCivitas_pages",
-      "RelativePath": "Js/script.js",
+      "RelativePath": "Js/script#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "4k2ggg17qk",
+      "Integrity": "9JC8QoPC3Al0e968tApb0Qi+VI6c8CyjgGtmnufdAzE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Js\\script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cmapd0fi15"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0uw8dim9nl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.eot",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK3poGPgzKI2NzNgP07XMbJa3Dz6USoUh/chSkSvQpc="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4d0pazwgy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ll5grcv8wv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.otf",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjnzgf7e1h"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.svg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+RP8CV3vRK1YbIkNzq3rPo1jyETPnR07ULb+HVYL8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wk8x8xm0ah"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/font/fonts/open-iconic.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sDUtuZAEzWZyv/U1xl/9D3ehyU69JE+FvAcu5HQ+/a0="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/font/fonts/open-iconic.woff",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZPqVlRJfSNW0KaQ4+UPOXZ/v/QzXlejRDwUNdZIofI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/FONT-LICENSE",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48tmkg660f"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/FONT-LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jA4J4h/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/ICON-LICENSE",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dwjve0o0b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/ICON-LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aF5g/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU/ss="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/README.8h4oiah9s0.md",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rDb1fXbrDo8/dpt6Gi3UAobONVQv/lE2bB7lGwRQ0jM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8h4oiah9s0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/open-iconic/README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rDb1fXbrDo8/dpt6Gi3UAobONVQv/lE2bB7lGwRQ0jM="
+        }
+      ]
+    },
+    {
+      "Route": "css/open-iconic/README.md",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\open-iconic\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rDb1fXbrDo8/dpt6Gi3UAobONVQv/lE2bB7lGwRQ0jM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rDb1fXbrDo8/dpt6Gi3UAobONVQv/lE2bB7lGwRQ0jM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkReKtKzSd4u2zkRZ5MXvjdKYZTcwEV+KwOIlyv6p/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkReKtKzSd4u2zkRZ5MXvjdKYZTcwEV+KwOIlyv6p/o="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.u93wkq7bcw.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkReKtKzSd4u2zkRZ5MXvjdKYZTcwEV+KwOIlyv6p/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u93wkq7bcw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkReKtKzSd4u2zkRZ5MXvjdKYZTcwEV+KwOIlyv6p/o="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/imgFundo.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\imgFundo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hJ0Hj2DDyXknxEuPr++UzmFc4i5mjq8ck2VB9koKHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hJ0Hj2DDyXknxEuPr++UzmFc4i5mjq8ck2VB9koKHc="
+        }
+      ]
+    },
+    {
+      "Route": "images/imgFundo.uaczob2i0i.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\imgFundo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hJ0Hj2DDyXknxEuPr++UzmFc4i5mjq8ck2VB9koKHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uaczob2i0i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/imgFundo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hJ0Hj2DDyXknxEuPr++UzmFc4i5mjq8ck2VB9koKHc="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.2aeq10jp4f.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NiQR40GeMViLgysBT/XWUvWJe9bECP2hy57wEnJ1zWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2aeq10jp4f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NiQR40GeMViLgysBT/XWUvWJe9bECP2hy57wEnJ1zWI="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NiQR40GeMViLgysBT/XWUvWJe9bECP2hy57wEnJ1zWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NiQR40GeMViLgysBT/XWUvWJe9bECP2hy57wEnJ1zWI="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjoO3lWsPBuybg3esA1P1czNkfCpuLnlPW/jI9isD6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjoO3lWsPBuybg3esA1P1czNkfCpuLnlPW/jI9isD6E="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.ygn65tdycl.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjoO3lWsPBuybg3esA1P1czNkfCpuLnlPW/jI9isD6E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ygn65tdycl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjoO3lWsPBuybg3esA1P1czNkfCpuLnlPW/jI9isD6E="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1-1.79yu2zmmnh.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65Yt43mUKfkhmBYkwmJlZ5SLeWTF3/wDhXpytG1JdxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79yu2zmmnh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo1-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-65Yt43mUKfkhmBYkwmJlZ5SLeWTF3/wDhXpytG1JdxA="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1-1.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\logo1-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"65Yt43mUKfkhmBYkwmJlZ5SLeWTF3/wDhXpytG1JdxA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-65Yt43mUKfkhmBYkwmJlZ5SLeWTF3/wDhXpytG1JdxA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto1.ffqshb7xsr.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y+FkTharJrwoMSo7hRnC4Csihd0BNW8sBQMNYGokpWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffqshb7xsr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Produtos/Produto1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y+FkTharJrwoMSo7hRnC4Csihd0BNW8sBQMNYGokpWo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto1.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y+FkTharJrwoMSo7hRnC4Csihd0BNW8sBQMNYGokpWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y+FkTharJrwoMSo7hRnC4Csihd0BNW8sBQMNYGokpWo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto2.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8032992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3rcpmf2QwyP0GFYDBnm2XP2tKJ6vDewXp0qI5NeHy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3rcpmf2QwyP0GFYDBnm2XP2tKJ6vDewXp0qI5NeHy8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto2.lqqawk3zra.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8032992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3rcpmf2QwyP0GFYDBnm2XP2tKJ6vDewXp0qI5NeHy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lqqawk3zra"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Produtos/Produto2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3rcpmf2QwyP0GFYDBnm2XP2tKJ6vDewXp0qI5NeHy8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto3.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2889704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yLLAIyc9u0WEJci2WNlIxH8F556RpK96PbrkicU3i0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLAIyc9u0WEJci2WNlIxH8F556RpK96PbrkicU3i0o="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto3.o4tvczjak0.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2889704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yLLAIyc9u0WEJci2WNlIxH8F556RpK96PbrkicU3i0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o4tvczjak0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Produtos/Produto3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yLLAIyc9u0WEJci2WNlIxH8F556RpK96PbrkicU3i0o="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto4.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1510369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HnxhX0nMCDD4lKsHd/rK/OOA+1/D5Ss0KRAWB1uVtNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HnxhX0nMCDD4lKsHd/rK/OOA+1/D5Ss0KRAWB1uVtNI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Produtos/Produto4.mvzdpp5qgf.jpg",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\images\\Produtos\\Produto4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1510369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HnxhX0nMCDD4lKsHd/rK/OOA+1/D5Ss0KRAWB1uVtNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvzdpp5qgf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Produtos/Produto4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HnxhX0nMCDD4lKsHd/rK/OOA+1/D5Ss0KRAWB1uVtNI="
+        }
+      ]
+    },
+    {
+      "Route": "imobiliariaCivitas_pages.bundle.scp.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\imobiliariaCivitas_pages.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8="
+        }
+      ]
+    },
+    {
+      "Route": "imobiliariaCivitas_pages.styles.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\imobiliariaCivitas_pages.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8="
+        }
+      ]
+    },
+    {
+      "Route": "imobiliariaCivitas_pages.zbiifxizui.bundle.scp.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\imobiliariaCivitas_pages.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbiifxizui"
+        },
+        {
+          "Name": "label",
+          "Value": "imobiliariaCivitas_pages.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8="
+        }
+      ]
+    },
+    {
+      "Route": "imobiliariaCivitas_pages.zbiifxizui.styles.css",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\obj\\Debug\\net6.0\\scopedcss\\bundle\\imobiliariaCivitas_pages.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbiifxizui"
+        },
+        {
+          "Name": "label",
+          "Value": "imobiliariaCivitas_pages.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T6BUsl1SlcR5hnXoDhWzg0Ckneo6VWGXZrXpGx7Kkd8="
+        }
+      ]
+    },
+    {
+      "Route": "Js/script.4k2ggg17qk.js",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\Js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JC8QoPC3Al0e968tApb0Qi+VI6c8CyjgGtmnufdAzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4k2ggg17qk"
+        },
+        {
+          "Name": "label",
+          "Value": "Js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JC8QoPC3Al0e968tApb0Qi+VI6c8CyjgGtmnufdAzE="
+        }
+      ]
+    },
+    {
+      "Route": "Js/script.js",
+      "AssetFile": "C:\\Users\\NovaContabilidade\\source\\repos\\GabrielSLange\\ImobiliariaCivitasRepo\\imobiliariaCivitas_pages\\wwwroot\\Js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JC8QoPC3Al0e968tApb0Qi+VI6c8CyjgGtmnufdAzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 19:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JC8QoPC3Al0e968tApb0Qi+VI6c8CyjgGtmnufdAzE="
+        }
+      ]
     }
   ]
 }
