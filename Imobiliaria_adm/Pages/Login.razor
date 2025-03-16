@@ -52,7 +52,7 @@
             AuthStateProvider.MarkUserAsAuthenticated(token);
             Http.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
             erroRequest = false;
-            Navigation.NavigateTo("/Imoveis");
+            Navigation.NavigateTo("Imoveis", forceLoad: true);
         }
         else
         {
