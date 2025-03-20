@@ -12,7 +12,7 @@ namespace Imobiliaria_adm.Services
     public class ImobiliariaCivitasServices
     {
 
-        string Url = "https://lange-dev.duckdns.org";
+        string Url = "https://lange-dev.duckdns.org/api";
         public readonly HttpClient _client;
         public readonly ILocalStorageService _localStorage;
         public readonly NavigationManager _navigation;
