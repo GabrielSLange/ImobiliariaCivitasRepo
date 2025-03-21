@@ -9,6 +9,7 @@ namespace imobiliariaCivitas_shared.Model
         public int cd_imagem { get; set; }
         public int cd_imovel { get; set; }
         public string? imageBase64 { get; set; }
+        public bool is_principal { get; set; }
 
         [JsonIgnore]
         public tb_imovel imovel { get; set; } = new();

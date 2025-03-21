@@ -55,6 +55,10 @@ namespace imobiliariaCivitas_api.Migrations
                         .HasColumnType("TEXT")
                         .HasColumnName("imageBase64");
 
+                    b.Property<bool>("is_principal")
+                        .HasColumnType("BOOLEAN")
+                        .HasColumnName("is_principal");
+
                     b.HasKey("cd_imagem");
 
                     b.HasIndex("cd_imovel");

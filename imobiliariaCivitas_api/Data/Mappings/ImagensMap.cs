@@ -26,6 +26,11 @@ namespace imobiliariaCivitas_api.Data.Mappings
                 .IsRequired()
                 .HasColumnName("imageBase64")
                 .HasColumnType("TEXT");
+
+            builder.Property(tb => tb.is_principal)
+                .IsRequired()
+                .HasColumnName("is_principal")
+                .HasColumnType("BOOLEAN");
         }
     }
 }
