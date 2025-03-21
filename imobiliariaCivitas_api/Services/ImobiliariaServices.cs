@@ -29,7 +29,7 @@ namespace imobiliariaCivitas_api.Services
             {
                 tb_imovel imovel = new()
                 {
-                    descricao = $"Imovel {i}"
+                    descricao_abreviada = $"Imovel {i}"
                 };
                 imoveis.Add(imovel);
             }

@@ -73,11 +73,28 @@ namespace imobiliariaCivitas_api.Migrations
                     b.Property<DateTime>("criadoEm")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<string>("descricao")
+                    b.Property<string>("descricao_abreviada")
                         .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("VARCHAR")
-                        .HasColumnName("descricao");
+                        .HasColumnName("descricao_abreviada");
+
+                    b.Property<string>("descricao_longa")
+                        .IsRequired()
+                        .HasColumnType("TEXT")
+                        .HasColumnName("descricao_longa");
+
+                    b.Property<int>("qtd_banheiros")
+                        .HasColumnType("INT")
+                        .HasColumnName("qtd_banheiros");
+
+                    b.Property<int>("qtd_quartos")
+                        .HasColumnType("INT")
+                        .HasColumnName("qtd_quartos");
+
+                    b.Property<decimal>("valor_em_reais")
+                        .HasColumnType("DECIMAL")
+                        .HasColumnName("valor_em_reais");
 
                     b.HasKey("cd_imovel");
 
