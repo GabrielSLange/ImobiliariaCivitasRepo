@@ -1,0 +1,28 @@
+﻿/* Estilo para linhas ímpares */
+/*.custom-grid .rz-grid-table tbody tr:nth-child(odd) {
+    background-color: #e0f7fa;*/ /* Azul claro */
+/*}*/
+
+/* Estilo para linhas pares */
+/*.custom-grid .rz-grid-table tbody tr:nth-child(even) {
+    background-color: #e1bee7;*/ /* Roxo claro */
+/*}*/
+
+/* Estilo para a linha ao passar o mouse */
+/*.custom-grid .rz-grid-table tbody tr:hover {
+    background-color: #b2ebf2;*/ /* Azul mais escuro */
+/*}*/
+
+
+/* Centralizar completamente a modal */
+.rz-dialog {
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    max-width: 100vw !important;
+    max-height: 100vh !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    margin: 0 !important;
+}
