@@ -18,11 +18,38 @@ namespace imobiliariaCivitas_api.Data.Mappings
             
 
 
-            builder.Property(tb => tb.descricao)
+            builder.Property(tb => tb.descricao_abreviada)
                 .IsRequired()
-                .HasColumnName("descricao")
+                .HasColumnName("descricao_abreviada")
                 .HasColumnType("VARCHAR")
                 .HasMaxLength(200);
+
+            builder.Property(tb => tb.descricao_longa)
+                .IsRequired()
+                .HasColumnName("descricao_longa")
+                .HasColumnType("TEXT");
+
+            builder.Property(tb => tb.descricao_longa)
+                .IsRequired()
+                .HasColumnName("descricao_longa")
+                .HasColumnType("TEXT");
+
+
+            builder.Property(tb => tb.qtd_banheiros)
+                .IsRequired()
+                .HasColumnName("qtd_banheiros")
+                .HasColumnType("INT");
+
+            builder.Property(tb => tb.qtd_quartos)
+                .IsRequired()
+                .HasColumnName("qtd_quartos")
+                .HasColumnType("INT");
+
+            builder.Property(tb => tb.valor_em_reais)
+                .IsRequired()
+                .HasColumnName("valor_em_reais")
+                .HasColumnType("DECIMAL");
+
         }
     }
 }

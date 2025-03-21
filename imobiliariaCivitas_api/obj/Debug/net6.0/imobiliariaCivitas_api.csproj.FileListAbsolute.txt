@@ -402,3 +402,14 @@ C:/Users/NovaContabilidade/source/repos/GabrielSLange/ImobiliariaCivitasRepo/imo
 /var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/appsettings.json
 /var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/imobiliariaCivitas_api.deps.json
 /var/www/api/imobiliariaCivitas_api/bin/Debug/net6.0/out/out/out/out/imobiliariaCivitas_api.runtimeconfig.json
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.AssemblyReference.cache
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfoInputs.cache
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.AssemblyInfo.cs
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.csproj.CoreCompileInputs.cache
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.sourcelink.json
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.dll
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\refint\imobiliariaCivitas_api.dll
+C:\Users\NovaContabilidade\source\repos\GabrielSLange\ImobiliariaCivitasRepo\imobiliariaCivitas_api\obj\Debug\net6.0\imobiliariaCivitas_api.pdb
