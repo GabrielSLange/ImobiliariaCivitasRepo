@@ -105,6 +105,26 @@
   },
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
+    "Method": "GetImovelImagens",
+    "RelativePath": "Imovel/GetImovelImagens",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[imobiliariaCivitas_shared.Model.tb_imovel, imobiliariaCivitas_shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
     "Method": "GetImovelTeste",
     "RelativePath": "Imovel/GetImovelTeste",
     "HttpMethod": "GET",

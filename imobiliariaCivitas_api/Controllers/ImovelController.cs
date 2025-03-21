@@ -31,6 +31,19 @@ namespace imobiliariaCivitas_api.Controllers
         }
 
         [HttpGet]
+        public async Task<ActionResult<List<tb_imovel>>> GetImovelImagens()
+        {
+            try
+            {
+                return Ok(await _services.ObterImovelImagens());
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet]
         public async Task<ActionResult<List<tb_imovel>>> GetImovel()
         {
             try

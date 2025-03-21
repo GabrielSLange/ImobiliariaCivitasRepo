@@ -37,6 +37,12 @@ namespace imobiliariaCivitas_api.Services
             return imoveis;
         }
 
+        public async Task<List<tb_imovel>> ObterImovelImagens()
+        {
+            return await _context.tb_imoveis
+                .Include(imovel => imovel.imagens)
+                .ToListAsync();
+        }
 
         public async Task<List<tb_imovel>> ObterImoveis()
         {
