@@ -12,6 +12,8 @@ namespace imobiliariaCivitas_pages
 
             var app = builder.Build();
 
+            app.UsePathBase("/blazor");
+
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
