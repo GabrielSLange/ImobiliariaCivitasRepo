@@ -2,7 +2,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ContaController",
     "Method": "CriarConta",
-    "RelativePath": "criarConta",
+    "RelativePath": "api/criarConta",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImagemController",
     "Method": "ObterImagensPorImovel",
-    "RelativePath": "Imagem/ObterImagensPorImovel",
+    "RelativePath": "api/Imagem/ObterImagensPorImovel",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -44,7 +44,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImagemController",
     "Method": "SalvarImagem",
-    "RelativePath": "Imagem/SalvarImagem",
+    "RelativePath": "api/Imagem/SalvarImagem",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -60,7 +60,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
     "Method": "CriarImovel",
-    "RelativePath": "Imovel/CriarImovel",
+    "RelativePath": "api/Imovel/CriarImovel",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -86,7 +86,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
     "Method": "GetImovel",
-    "RelativePath": "Imovel/GetImovel",
+    "RelativePath": "api/Imovel/GetImovel",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -106,7 +106,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
     "Method": "GetImovelImagens",
-    "RelativePath": "Imovel/GetImovelImagens",
+    "RelativePath": "api/Imovel/GetImovelImagens",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -126,7 +126,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ImovelController",
     "Method": "GetImovelTeste",
-    "RelativePath": "Imovel/GetImovelTeste",
+    "RelativePath": "api/Imovel/GetImovelTeste",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -146,7 +146,7 @@
   {
     "ContainingType": "imobiliariaCivitas_api.Controllers.ContaController",
     "Method": "FazerLogin",
-    "RelativePath": "login",
+    "RelativePath": "api/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

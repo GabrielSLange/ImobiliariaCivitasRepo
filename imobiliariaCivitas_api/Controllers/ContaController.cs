@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace imobiliariaCivitas_api.Controllers
 {
     [ApiController]
-    [Route("[controller]/[action]")]
     public class ContaController : ControllerBase
     {
         private ImobiliariaServices _services;
@@ -15,7 +14,7 @@ namespace imobiliariaCivitas_api.Controllers
             _services = services;
         }
 
-        [HttpPost("/login")]
+        [HttpPost("api/login")]
         public async Task<ActionResult> FazerLogin([FromBody]LoginUsuarioDTO usuario)
         {
             try
@@ -37,7 +36,7 @@ namespace imobiliariaCivitas_api.Controllers
         }
 
 
-        [HttpPost("/criarConta")]
+        [HttpPost("api/criarConta")]
         public async Task<ActionResult> CriarConta(CriarLoginUsuarioDTO usuario)
         {
             try
